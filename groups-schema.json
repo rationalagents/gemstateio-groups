@@ -1,0 +1,31 @@
+{
+	"title": "gemstateio-groups",
+  "description": "Schema for Idaho tech creative group list",
+  "fields": [
+     {
+        "name": "Name",
+        "description": "Name of the group",
+        "constraints": {
+					"required": true,
+					"unique": true,
+					"type": "http://www.w3.org/2001/XMLSchema#string"
+        }
+     },
+     {
+        "name": "TLD",
+        "description": "Acronym used by the group to self-identify, e.g. Boise Software Developers Group often calls itself 'BSDG'",
+        "constraints": {
+					"required": false
+					"type": "http://www.w3.org/2001/XMLSchema#string"
+        }
+     },
+     {
+        "name": "Locality",
+        "description": "Locality (city) of the group's primary in-person meetings, or 'Online'",
+        "constraints": {
+					"required": true
+					"type": "http://www.w3.org/2001/XMLSchema#string"
+        }
+     } 
+  ]
+}
