@@ -6,7 +6,7 @@ Foster connections between tech creatives in all parts of Idaho. This dataset he
 
 Reckful abandon is also OK.
 
-We'd like to see fewer accidental collisions and overlaps ("I want to go to DangularJS but it's the same night as Webfoo.") We'd like to see intentional collision and overlap, as smaller groups are recognized and larger groups churn.
+We'd like to see less accidental collision and overlap ("I want to go to DangularJS but it's the same night as Webfoo.") We'd like to see more intentional collision and overlap, as smaller groups are recognized, and larger groups churn.
 
 ## Contributing
 This repository has the most up-to-date descriptions, approximate locations, and recurrance of group meetings. If you know of a new group, information can be improved for a current group, or one of the groups is no more, please open an issue or pull request!
