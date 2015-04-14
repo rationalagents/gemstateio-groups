@@ -21,10 +21,15 @@
       "name": "Description",
       "description": "A brief text description of the group. No HTML/links please (we'll provide for linking later, although see 'Next Meeting URL')",
       "constraints": {"required": false }
-    },    
+    },
+    {
+      "name": "Frequency",
+      "description": "Recurrence of meetings in English, e.g. 'Yearly at Treefort' or 'First Thursday of each month'",
+      "constraints": { "required": false }
+    },
     {
       "name": "Recurrence",
-      "description": "Recurrence of meetings, if known, in RFC 2445 notation.",
+      "description": "Recurrence of meetings, if known and expressable in RFC 2445 notation.",
       "constraints": { "required": false }
     },
     {
