@@ -1,28 +1,36 @@
-{
-	"title": "gemstateio-groups",
+{ 
+  "title": "gemstateio-groups",
   "description": "Schema for Idaho tech creative group list",
   "fields": [
-     {
-        "name": "Name",
-        "description": "Name of the group",
-        "constraints": {
-					"required": true,
-					"unique": true
-				}
-     },
-     {
-        "name": "TLD",
-        "description": "Acronym used by the group to self-identify, e.g. Boise Software Developers Group often calls itself 'BSDG'",
-        "constraints": {
-					"required": false
-        }
-     },
-     {
-        "name": "Locality",
-        "description": "Locality (city) of the group's primary in-person meetings, or 'Online'",
-        "constraints": {
-					"required": true
-        }
-     } 
+    {
+      "name": "Name",
+      "description": "Name of the group",
+      "constraints": { "required": true, "unique": true }
+    },
+    {
+      "name": "TLD",
+      "description": "Acronym used by the group to self-identify, e.g. Boise Software Developers Group members call it 'BSDG'",
+      "constraints": { "required": false }
+    },
+    {
+      "name": "Locality",
+      "description": "Locality (incorporated city or town) of the group's in-person meetings, or 'Online' if there is no in-person meeting",
+      "constraints": { "required": true }
+    },
+    {
+      "name": "Description",
+      "description": "A brief text description of the group. No HTML/links please (we'll provide for linking later, although see 'Next Meeting URL')",
+      "constraints": {"required": false }
+    },    
+    {
+      "name": "Recurrence",
+      "description": "Recurrence of meetings, if known, in RFC 2445 notation.",
+      "constraints": { "required": false }
+    },
+    {
+      "name": "Next Meeting URL",
+      "description": "A URL for more information about the next upcoming meeting (required), and general group info (not required)",
+      "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
+    }
   ]
 }
