@@ -8,11 +8,11 @@ This repository feeds the mission by providing updated and comprehensive data on
 Reckful abandon is also OK.
 
 ## Contributing
-This repository has the most up-to-date descriptions, approximate locations, and recurrance/frequency of meetings. If you know a new group, see a bug in current group information, or one of the groups is sadly no more, please open an issue (https://github.com/waded/gemstateio-groups/issues) or PR to fix it yourself!
+This repository has the most up-to-date descriptions, approximate locations, and recurrance/frequency of meetings. But we need your help to keep it that way! 
 
-Please see groups-schema.json, which you can use with http://csvlint.io, to check your work.
+If you know a new group, see a bug in current group information, or one of the groups is sadly no more, please open an issue (https://github.com/waded/gemstateio-groups/issues) or PR to fix it yourself! If you modify groups.csv directly please see groups-schema.json, which you can use with http://csvlint.io, to check your work.
 
-A group should have held one meeting and have a URL explaining date/time of future meetings. (We want groups that intend to meet frequently... no "first annuals.") The groups should be focused on any aspect of technology industry in Idaho, tech/STEM education, or 'hackfests' where cool stuff's being built. We'll be checking in to see if groups are still alive, an effort that takes time. Please open an issue if you have questions about what we might accept!
+Groups should have held one meeting and have a URL explaining date/time of future meetings: we want groups that intend to meet frequently... no "first annuals." Groups should be focused on any aspect of technology industry in Idaho, tech/STEM education, or 'hackfests' where cool stuff's built. We'll be checking in to see if groups are still alive, an effort that we expect will take some time and care, and we think these rules will help. If you wonder if a group would be accepted please open an issue to ask!
 
 ## Frequent contributors
 - ?
