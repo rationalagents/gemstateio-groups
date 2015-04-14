@@ -2,8 +2,7 @@
 Tech creative groups in Idaho with purpose, locations, and frequency
 
 ## Mission
-### Foster connections between tech creatives in all parts of Idaho
-This repository feeds the mission by providing updated and comprehensive data on tech "meetups" that transcend Idaho's internal boundaries. We want people meeting up and doing great things with reckless abandon.
+gemstate.io fosters connections between tech creatives in all parts of Idaho. This repository feeds the mission by providing updated and comprehensive data on tech "meetups" that transcend Idaho's internal boundaries. We want people meeting up and doing great things with reckless abandon.
 
 Reckful abandon is also OK.
 
@@ -21,4 +20,4 @@ Groups should have held one meeting and have a URL explaining date/time of futur
 The initial list of groups was inspired by Idaho Tech Council's "Local Places For Techies To Network"
 
 ## License
-Public Domain
+Public Domain (no really, please use this to help with the mission.)
