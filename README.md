@@ -1,15 +1,16 @@
 # gemstateio-groups
-Idaho tech meetup/conference/hack data with purpose, location, frequency, and more
+Idaho tech meetup data with purpose, location, frequency, and more
 
 ## Mission
-gemstate.io's mission is to foster connections between tech creatives in Idaho. 
+gemstate.io's mission is to foster connections between people creating things with technology in Idaho. 
 
-gemstateio-groups feeds the mission by providing updated and comprehensive data on tech meetups/conferences/hackathons in Idaho. We want people meeting and doing great things with reckless abandon.
+gemstateio-groups feeds the mission by providing updated and comprehensive data on tech meetups/conferences/hackathons happening in Idaho. We want people meeting and doing great things with reckless abandon.
 
 Reckful abandon is also OK.
 
-## Contributing
-If you know of new groups, dead groups, or want to update a group's information, please open an issue (https://github.com/waded/gemstateio-groups/issues) or pull request.
+## Get the data!
+
+See [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). The schema is [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
 
 Groups listed here:
 
@@ -19,6 +20,9 @@ Groups listed here:
 - have Idaho basis or border (Pullman, Spokane) basis
 
 Livestream/video-conference-only events with Idaho basis are great too!
+
+## Contributing
+If you know of new groups, dead groups, or want to update a group's information, please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request.
 
 ## Frequent contributors
 - ?
