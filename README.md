@@ -13,12 +13,12 @@ If you know of new groups, dead groups, or want to update a group's information,
 
 Groups listed here:
 
-- focus on creating things using technology in Idaho (e.g. tech meetup, hacknights, tech continuing education, user groups, initiative groups, conferences)
+- focus on creating things using technology in Idaho (e.g. hacknights, specific-technology meetups or user groups, initiative groups, continuing education, conferences)
 - held 1 meeting already <sup>1</sup>
 - have a URL explaining when future meetings are, or who can be contacted 
-- have Idaho or border (Pullman, Spokane) basis
+- have Idaho basis or border (Pullman, Spokane) basis
 
-Livestream/video-conference-only events with Idaho basis are great!
+Livestream/video-conference-only events with Idaho basis are great too!
 
 ## Frequent contributors
 - ?
