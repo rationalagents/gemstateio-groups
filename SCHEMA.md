@@ -1,16 +1,13 @@
 # groups-schema.json
 
-groups-schema.json is http://dataprotocols.org/json-table-schema/ format and can be used to validate groups.csv using CSVLint or similar tools.
+groups-schema.json is http://dataprotocols.org/json-table-schema/ format and can be used to validate groups.csv using http://http://csvlint.io/ or similar.
 
-### Columns coming sometime
+We do intend to add these fields soon:
 
-If you can help us collect this information please add these!
+- Type of group
 
-- Recent Attendance (number)
-- Code of Conduct (yes/no)
-- Live stream or conference (URL)
+We may add these:
 
-
-### Previously discarded ideas
-
-- 
+- Recent Attendance
+- Code of Conduct?
+- Live stream or join-conference URL
