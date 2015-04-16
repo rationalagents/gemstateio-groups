@@ -10,7 +10,7 @@ Reckful abandon is also OK.
 
 ## Get the data!
 
-See [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). The schema is [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
+See [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). The schema is [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json), which explains the meaning of some of the columns, and helps keep the data valid (try http://csvlint.io.)
 
 Groups listed here:
 
@@ -22,7 +22,7 @@ Groups listed here:
 Livestream/video-conference-only events with Idaho basis are great too!
 
 ## Contributing
-If you know of new groups, dead groups, or want to update a group's information, please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request.
+If you know of new groups, dead groups, or want to update a group's information, please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request. Please validate changes using the schema.
 
 ## Contributors
 - [@waded](https://github.com/waded)
