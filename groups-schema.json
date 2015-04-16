@@ -8,9 +8,9 @@
       "constraints": { "required": true, "unique": true }
     },
     {
-      "name": "FirstAddedDate",
+      "name": "AddedDate",
       "description": "Date the group was first added to this list, intended to help people find new groups (ISO 8601 format)",
-      "constraints": { "required": true, "type": "datetime"}
+      "constraints": { "required": true, "type": "http://www.w3.org/2001/XMLSchema#date"}
     },
     {
       "name": "TLA",
