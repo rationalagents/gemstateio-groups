@@ -4,12 +4,17 @@
   "fields": [
     {
       "name": "Name",
-      "description": "Name of the group",
+      "description": "Full name of the group",
       "constraints": { "required": true, "unique": true }
     },
     {
-      "name": "TLD",
-      "description": "Acronym used by the group to self-identify, e.g. Boise Software Developers Group members call it 'BSDG'",
+      "name": "FirstAddedDate",
+      "description": "Date the group was first added to this list, intended to help people find new groups (ISO 8601 format)",
+      "constraints": { "required": true, "type": "datetime"}
+    },
+    {
+      "name": "TLA",
+      "description": "Acronym used by the group to self-identify, e.g. Boise Software Developers Group members call it BSDG. Looking for scenario.",
       "constraints": { "required": false }
     },
     {
@@ -19,22 +24,22 @@
     },
     {
       "name": "Description",
-      "description": "A brief text description of the group. No HTML/links please (we'll provide for linking later, although see 'Next Meeting URL')",
+      "description": "A brief text description of the group. No HTML/links please. (We'll provide for linking later. See NextMeetingURL.)",
       "constraints": {"required": false }
     },
     {
       "name": "Frequency",
-      "description": "Recurrence of meetings in English, e.g. 'Yearly at Treefort' or 'First Thursday of each month'",
+      "description": "Recurrence of meetings in English, e.g. 'August' or '1st Thursday'",
       "constraints": { "required": false }
     },
     {
       "name": "Recurrence",
-      "description": "Recurrence of meetings, if known and expressable in RFC 2445 notation.",
+      "description": "Recurrence of meetings, if known and expressable in RFC 2445 notation. Looking for scenario (likely iCal integration, but need frequent updates first.)",
       "constraints": { "required": false }
     },
     {
       "name": "NextMeetingURL",
-      "description": "A URL for more information about the next upcoming meeting (required), and general group info (not required)",
+      "description": "Most specific URL possible to get information about the next upcoming meeting",
       "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
     }
   ]
