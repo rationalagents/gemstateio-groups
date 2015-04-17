@@ -28,10 +28,10 @@ If you know of new groups, dead groups, or want to update a group's information,
 - [@waded](https://github.com/waded)
 
 ## Acknowledgements
-The initial list of groups was selected from Idaho Tech Council's "Local Places For Techies To Network." (For a time http://gemstate.io pointed at ITC's page at [@jdmullin's](http://twitter.com/jdmullin) MVP suggestion.
+The initial list of groups was selected from Idaho Tech Council's "Local Places For Techies To Network." For a time http://gemstate.io pointed at ITC's page at [@jdmullin]'s(http://twitter.com/jdmullin) MVP suggestion.
 
 ## License
-Public Domain (no really, please use this to help with the mission.)
+Public Domain (please use this data to help with the mission.)
 
 ## Footnotes
 1 - Initially we've listed any group we find until we can confirm they met and plan to keep meeting.
