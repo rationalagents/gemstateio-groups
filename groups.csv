@@ -1,17 +1,17 @@
 Name,AddedDate,TLA,Locality,Description,Frequency,Recurrence,NextMeetingURL
 Adobe Developers of Idaho,2015-04-14,,Boise,,,,
 BeerJS Boise,2015-04-14,,Boise,,,,http://www.meetup.com/BeerJSBoise/
-Boise .NET User Group,2015-04-14,NETDug,Boise,,,,http://www.meetup.com/netdug/
-Boise AngularJS,2015-04-14,,Boise,,,,http://www.meetup.com/BoiseAngularJS/
-Boise Area Machine Learning & Data Science,2015-04-14,,Boise,,,,
+Boise .NET User Group,2015-04-14,NETDug,Boise,,3rd Thurs 6:30PM,,http://www.meetup.com/netdug/
+Boise AngularJS,2015-04-14,,Boise,,1st Wed 6PM,,http://www.meetup.com/BoiseAngularJS/
+Boise Area Machine Learning & Data Science,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-Area-Machine-Learning-Data-Science/
 Boise Area VMWare User Group,2015-04-14,,Boise,,,,http://www.vmug.com/index.php?mo=cm&op=ld&fid=217&gid=61
-Boise BI User Group,2015-04-14,,Boise,,,,http://www.meetup.com/BoiseBI/
+Boise BI User Group,2015-04-14,,Boise,,Seasonal,,http://www.meetup.com/BoiseBI/
 Boise Cloud Computing,2015-04-14,,Garden City,,,,http://www.meetup.com/Boise-Cloud-Computing-Meetup/
 Boise Code Camp,2015-04-14,BCC,Boise,,March,,http://boisecodecamp.org/
-Boise Coworking,2015-04-14,,Boise,,,,http://www.meetup.com/boisecoworking/
-Boise Graphic Design Group,2015-04-14,,Boise,,,,http://www.meetup.com/BoiseGDG/
+Boise Coworking,2015-04-14,,Boise,,Fridays 11AM,,http://www.meetup.com/boisecoworking/
+Boise Graphic Design Group,2015-04-14,,Boise,,2nd Thurs 6PM,,http://www.meetup.com/BoiseGDG/
 Boise Hackers,2015-04-14,,Boise,,,,https://twitter.com/boisehackers
-Boise Innovation Meetup,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-Innovation-Meetup/
+Boise Innovation,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-Innovation-Meetup/
 Boise Linux User Group,2015-04-14,BLUG,Boise,,,,http://boiselug.org/
 Boise Mobile Developers,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-Mobile-Developers/
 Boise on Test,2015-04-14,BoT,Boise,,,,http://www.meetup.com/BoiseOnTest/
@@ -21,29 +21,38 @@ Boise SQL Server Users Group,2015-04-14,,Boise,,,,http://boise.sqlpass.org/
 Boise Tableau Meetup,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-Tableau-Meetup/
 Boise UX-UI,2015-04-14,,Boise,,,,http://www.meetup.com/Boise-UX-UI/
 Boise Web Technologies Group,2015-04-14,,Boise,,,,http://www.meetup.com/boisewebtechs/
-Code for Boise,2015-04-14,,Boise,,2nd & 4th Wednesdays,,http://codeforboise.org/
+Build Guild,2015-04-16,,Spokane,,Last Tues 6PM,,http://www.meetup.com/Build-Guild-Spokane/
+Code for Boise,2015-04-14,,Boise,,2nd/4th Wed 6PM,,http://codeforboise.org/
+Developer Cooperative,2015-04-16,Dev Coop,Liberty Lake,,,,http://www.meetup.com/devcoop/
 develop.idaho,2015-04-14,,Boise,,April,,http://www.idahotechcouncil.org/developidaho
 Ember Boise,2015-04-14,,Boise,,,,http://www.meetup.com/Ember-Boise/
 Gamination,2015-04-14,,Boise,,,,http://www.meetup.com/Gamination/
 Girl Develop It Boise,2015-04-14,,Boise,,,,https://www.girldevelopit.com/chapters/boise
 Girls In Tech Boise,2015-04-14,,Boise,,,,https://www.facebook.com/girlsintechboise
 Hackfort,2015-04-14,,Boise,,March,,http://www.treefortmusicfest.com/hackfort
-IC:Code,2015-04-14,,Coeur d'Alene,,,,https://www.facebook.com/groups/innovationcollective/events/
-IC:Coffee & Concepts,2015-04-14,,Coeur d'Alene,,,,https://www.facebook.com/groups/innovationcollective/events/
+IC:Code,2015-04-14,,Coeur d'Alene,,Monthly 7PM,,https://www.facebook.com/groups/innovationcollective/events/
+IC:Coffee & Concepts,2015-04-14,,Coeur d'Alene,,1st/3rd Thurs 7:30AM,,https://www.facebook.com/groups/innovationcollective/events/
 IC:Fireside Chat,2015-04-14,,Coeur d'Alene,,,,https://www.facebook.com/groups/innovationcollective/events/
 Idaho Game Developers,2015-04-14,,Boise,,,,http://www.meetup.com/IdahoGameDevelopers/
 Idaho Technology Users Group,2015-04-14,,Boise,,,,http://www.idahopcug.org/
-Idaho PHP User Group,2015-04-14,,Meridian,,,,http://www.meetup.com/Idaho-PHP/
+Idaho PHP User Group,2015-04-14,,Meridian,,1st Tues 6:15PM,,http://www.meetup.com/Idaho-PHP/
+Inland Northwest R User Group,2015-04-16,INRUG,Spokane,,,,http://www.meetup.com/Inland-Northwest-R-User-Group-INRUG/
 Interactive Artists and Animators Group of Idaho,2015-04-14,IAAGI,Boise,,,,
 Kickstand,2015-04-14,,Boise,,,,http://www.kickstand.org/Event_Calendar
 LocalMotion Boise,2015-04-14,,Boise,,,,http://www.meetup.com/LocalMotion/
-Meridian Mobile Development Meetup,2015-04-14,,Meridian,,,,http://www.meetup.com/Meridian-Mobile-Development-Meetup/
+Meridian Mobile Development,2015-04-14,,Meridian,,,,http://www.meetup.com/Meridian-Mobile-Development-Meetup/
 Meteor Boise,2015-04-14,,Boise,,,,http://www.meetup.com/Meteor-Boise/
 Meteor Sandpoint,2015-04-14,,Sandpoint,,,,http://www.meetup.com/Meteor-Sandpoint-ID/
-Open Lab Idaho,2015-04-14,,Boise,,Wednesdays 6-9PM,,http://www.openlabidaho.org/blog/
-Pullman WordPress Meetup,2015-04-14,,Pullman,,,,http://www.meetup.com/Pullman-WordPress-Meetup/
+Open Lab Idaho,2015-04-14,,Garden City,,Weds 6PM,,http://www.openlabidaho.org/blog/
+Pullman WordPress,2015-04-14,,Pullman,,,,http://www.meetup.com/Pullman-WordPress-Meetup/
 ReactJS Boise,2015-04-14,,Boise,,,,http://www.meetup.com/ReactJS-Boise/
 Southern Idaho Society of Software Quality Assurance,2015-04-14,SISQA,Boise,,,,
+Spokane Bitcoin,2015-04-16,,Spokane,,,,http://www.meetup.com/Spokane-Bitcoin-Meetup/
+Spokane Front End Developers,2015-04-16,,Spokane,,,,http://www.meetup.com/Spokane-Front-end-Meetup/
+Spokane Game Development,2015-04-16,,Spokane,,,,http://www.meetup.com/SpokaneGameDevelopment/
+Spokane PHP User Group,2015-04-16,,Spokane,,,,http://www.meetup.com/Spokane-PHP-Meetup/
+Spokane Python User Group,2015-04-16,,Spokane,,,,http://www.meetup.com/Spokane-Python-Meetup/
+Spokane UI UX Design,2015-04-16,,Spokane,,4th Wed 6PM,,http://www.meetup.com/Spokane-UI-UX-Design-Meetup/
 Startup Grind Boise,2015-04-14,,Boise,,,,http://startupgrind.com/boise/
 Think Big Festival,2015-04-14,,Coeur d'Alene,,August,,http://www.thinkbigfestival.com/
-Treasure Valley Product Development and Designers Meetup,2015-04-14,,Meridian,,,,http://www.meetup.com/Treasure-Valley-Product-Developement-and-Designers-Meetup/
+Treasure Valley Product Development and Designers,2015-04-14,,Meridian,,,,http://www.meetup.com/Treasure-Valley-Product-Developement-and-Designers-Meetup/
