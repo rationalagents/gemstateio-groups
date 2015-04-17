@@ -4,9 +4,11 @@ Idaho's tech meetup data with purpose, location, frequency, and more. Please hel
 ## Mission
 gemstate.io's mission is to foster connections between people creating things with technology in Idaho. 
 
-gemstateio-groups feeds the mission by providing data on tech meetups/conferences/hackathons happening in Idaho. 
+gemstateio-groups feeds the mission by providing data on tech meetups/conferences/hackathons happening in Idaho.
 
-We want people meeting and doing great things with reckless abandon, but they needn't do it alone. Reckful abandon is also OK.
+We want people doing great things with reckless abandon, but they needn't do it alone. 
+
+Reckful abandon is also OK.
 
 ## Get the data!
 
@@ -31,7 +33,7 @@ If you know of new groups, dead groups, or want to update a group's information,
 The initial list of groups was selected from Idaho Tech Council's "Local Places For Techies To Network." For a time http://gemstate.io pointed at ITC's page at [@jdmullin]'s(http://twitter.com/jdmullin) MVP suggestion.
 
 ## License
-Public Domain (please use this data to help with the mission.)
+Public Domain
 
 ## Footnotes
 1 - Initially we've listed any group we find until we can confirm they met and plan to keep meeting.
