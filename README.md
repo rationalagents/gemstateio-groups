@@ -1,6 +1,8 @@
 # gemstateio-groups
 Idaho's tech meetup data with purpose, location, frequency, and more. Please help us update it!
 
+[![](https://travis-ci.org/waded/gemstateio-groups.svg?branch=master)](https://travis-ci.org/waded/gemstateio-groups)
+
 ## Mission
 gemstate.io's mission is to foster connections between people creating things with technology in Idaho. 
 
