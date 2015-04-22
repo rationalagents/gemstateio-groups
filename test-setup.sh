@@ -1,4 +1,4 @@
 #!/bin/bash
 
-git clone https://github.com/odi/csvlint.rb
+git clone git://github.com/theodi/csvlint.rb
 gem install 'csvlint'
