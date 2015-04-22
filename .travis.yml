@@ -1,0 +1,5 @@
+language: ruby
+rvm:
+  - "2.0.0"
+before_script: "./test-setup.sh"
+script: "./csvlint/bin/csvlint groups.csv -s groups-schema.json"
