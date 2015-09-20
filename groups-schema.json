@@ -1,6 +1,5 @@
 { 
   "title": "gemstateio-groups",
-  "description": "Schema for Idaho tech creative group list",
   "fields": [
     {
       "name": "Name",
@@ -33,14 +32,14 @@
       "constraints": { "required": false }
     },
     {
-      "name": "Recurrence",
-      "description": "Recurrence of meetings, if known and expressable in RFC 2445 notation. Looking for scenario (likely iCal integration, but need frequent updates first.)",
-      "constraints": { "required": false }
+      "name": "NextMeetingURL",
+      "description": "URL providing more information about the group ,and ideally next meeting time/place",
+      "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
     },
     {
-      "name": "NextMeetingURL",
-      "description": "Most specific URL possible to get information about the next upcoming meeting",
-      "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
+    	"name": "MeetupComGroupName",
+    	"description": "If meetup.com is used for scheduling, the meetup.com group name (seen in URLs as http://www.meetup.com/<group name>/",
+    	"constraints": { "required": false }
     }
   ]
 }
