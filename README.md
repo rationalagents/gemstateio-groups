@@ -18,8 +18,7 @@ Groups listed here:
 - focus on creating things using technology in Idaho (e.g. hackathons, specific-technology user groups, initiative groups, continuing education, conferences, and tech-business groups)
 - have a URL explaining when future meetings are (or at minimum some contact point)
 - have Idaho basis (are either based in Idaho, or are on the Idaho border, for example in Pullman, Spokane Valley, or Ontario.)
-
-Livestream/video-conference-only events with Idaho basis are great too, and we encourage groups that aren't doing this today to try it!
+- livestream/video-conference/Slack/IRC events with Idaho basis are great too, and we encourage groups that aren't doing this today to start doing it!
 
 ## Contributing
 If you know of new groups, dead groups, or want to update your group or another group's information, please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request.
