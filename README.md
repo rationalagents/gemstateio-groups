@@ -9,7 +9,7 @@ gemstateio-groups provides data on tech meetups/workgrounds/conferences/hackatho
 
 We want to see people doing great things in Idaho, and they needn't do it alone. 
 
-## Edit the data:
+## Edit the data!
 
 See [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). The schema is [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json), which explains the meaning of some of the columns, and helps keep the data valid (try http://csvlint.io.)
 
