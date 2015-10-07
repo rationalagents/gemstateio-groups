@@ -40,6 +40,11 @@
     	"name": "MeetupComGroupName",
     	"description": "If meetup.com is used for scheduling, the meetup.com group name (seen in URLs as http://www.meetup.com/<group name>/",
     	"constraints": { "required": false }
+    },
+    {
+    	"name": "FacebookGroupName",
+    	"description": "If Facebook is used for scheduling, the Facebook group name",
+    	"constraints": { "required": false }
     }
   ]
 }
