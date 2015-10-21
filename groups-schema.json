@@ -22,16 +22,6 @@
       "constraints": { "required": true }
     },
     {
-      "name": "Description",
-      "description": "A brief text description of the group. No HTML/links please. (We'll provide for linking later. See NextMeetingURL.)",
-      "constraints": {"required": false }
-    },
-    {
-      "name": "Frequency",
-      "description": "Recurrence of meetings in English, e.g. 'August' or '1st Thursday'",
-      "constraints": { "required": false }
-    },
-    {
       "name": "NextMeetingURL",
       "description": "URL providing more information about the group ,and ideally next meeting time/place",
       "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
