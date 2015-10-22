@@ -14,7 +14,7 @@ Groups listed here:
 - Must have Idaho basis (based in Idaho, or are on the Idaho border.) Regular livestream/video-conference/Slack/IRC hangouts with Idaho basis are accepted too!
 - Must have a URL explaining why/when/what
 - Should use one of the schema-listed technologies for event scheduling (e.g. Facebook) so gemstate.io can work its magic
-- Should have a Code of Conduct. gemstate.io may start featuring meetups that have codes over those that don't, so please think about this.
+- Should have a Code of Conduct so people understand what your group considers acceptable inclusive behavior.
 
 To edit submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See schema [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
 
