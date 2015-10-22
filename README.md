@@ -6,7 +6,9 @@ gemstate.io's mission is fostering connections between people creating things wi
 
 gemstateio-groups is a dataset the https://gemstate.io agent treats as authoriative about names, locations, & URLs of creator groups.
 
-## Edit the data!
+## Contributing
+
+If you know of new groups, dead groups, or want to update a group's information please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request.
 
 Groups listed here:
 
@@ -19,9 +21,6 @@ Groups listed here:
 To edit submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See schema [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
 
 [![](https://travis-ci.org/waded/gemstateio-groups.svg?branch=master)](https://travis-ci.org/waded/gemstateio-groups)
-
-## Contributing
-If you know of new groups, dead groups, or want to update a group's information please [open an issue](https://github.com/waded/gemstateio-groups/issues) or pull request.
 
 ## Contributors
 - [@waded](https://github.com/waded)
