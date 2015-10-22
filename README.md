@@ -11,10 +11,10 @@ gemstateio-groups is a dataset the https://gemstate.io agent treats as authoriat
 Groups listed here:
 
 - Focus on creating things using technology in Idaho (e.g. specific-technology user groups, hack nights, initiative groups, continuing education, conferences, and tech-business groups)
-- Must have Idaho basis (based in Idaho, or are on the Idaho border.) Regular livestream/video-conference/Slack/IRC hangouts with Idaho basis are accepted too!
+- Must have Idaho basis (based in Idaho, or are on the Idaho border.) Regular livestream/video-conference/Slack/IRC hangouts with Idaho basis are good too!
 - Must have a URL explaining why/when/what
 - Should use one of the schema-listed technologies for event scheduling (e.g. Facebook) so gemstate.io can work its magic
-- Should have a Code of Conduct so people understand what your group considers acceptable inclusive behavior.
+- Should have a Code of Conduct so people understand what the group considers acceptable inclusive behavior.
 
 To edit submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See schema [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
 
