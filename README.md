@@ -4,17 +4,17 @@
 
 gemstate.io's mission is fostering connections between people creating things with technology in Idaho. We want to see people doing great things everywhere in Idaho, and they needn't do it alone.
 
-gemstateio-groups is a dataset the https://gemstate.io agent treats as authoriative about names, locations, & URLs of "meetup" groups, .
+gemstateio-groups is a dataset the https://gemstate.io agent treats as authoriative about names, locations, & URLs of creator groups.
 
 ## Edit the data!
 
 Groups listed here:
 
-- focus on creating things using technology in Idaho (e.g. specific-technology user groups, hack nights, initiative groups, continuing education, conferences, and tech-business groups)
-- must have Idaho basis (are based in Idaho, or are in communities on the Idaho border.)
-- livestream/video-conference/Slack/IRC events with Idaho basis are accepted too, and we encourage groups that aren't doing this today to start doing it!
-- must have a URL explaining why/when/what
-- ideally uses one of the schema-listed technologies for event scheduling (e.g. Facebook) so gemstate.io can work its magic
+- Focus on creating things using technology in Idaho (e.g. specific-technology user groups, hack nights, initiative groups, continuing education, conferences, and tech-business groups)
+- Must have Idaho basis (based in Idaho, or are on the Idaho border.) Regular livestream/video-conference/Slack/IRC hangouts with Idaho basis are accepted too!
+- Must have a URL explaining why/when/what
+- Should use one of the schema-listed technologies for event scheduling (e.g. Facebook) so gemstate.io can work its magic
+- Should have a Code of Conduct. gemstate.io may start featuring meetups that have codes over those that don't, so please think about this.
 
 To edit submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See schema [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json).
 
