@@ -2,13 +2,13 @@
 
 ## Big picture
 
-gemstate.io's mission is fostering connections between people creating things with technology in Idaho. We want to see people doing great things everywhere in Idaho, and they needn't do it alone.
+gemstate.io's mission is fostering connections between people creating things with technology in Idaho.
 
-gemstateio-groups is a dataset the https://gemstate.io agent treats as authoriative about names, locations, & URLs of creator groups.
+gemstateio-groups is the dataset the gemstate.io agent treats as authoriative about group names, locations, & event streams.
 
 ## Contributing
 
-If you want to spread knowledge about a new group, or want to update a group's information, please submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json) if you're confused about the schema.
+To spread knowledge about a group or update a group's information please submit a pull request against [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json) if you're confused about the schema.
 
 Groups listed here:
 
