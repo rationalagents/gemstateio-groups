@@ -35,6 +35,11 @@
     	"name": "FacebookGroupName",
     	"description": "If Facebook is used for scheduling, the Facebook group name",
     	"constraints": { "required": false }
+    },
+    {
+      "name": "iCalendarURL",
+      "description": "If something other than meetup.com or Facebook is used for scheduling, the URL of an iCalendar/VCAL feed",
+      "constraints": { "required": false }
     }
   ]
 }
