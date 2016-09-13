@@ -40,11 +40,6 @@
       "name": "iCalendarURL",
       "description": "If something other than meetup.com or Facebook is used for scheduling, the URL of an iCalendar/VCAL feed",
       "constraints": { "required": false }
-    },
-    {
-      "name": "codeOfConduct",
-      "description": "Added to test that the build can fail, since the CSV does not have this column yet",
-      "constraints": { "required": true }      
     }
   ]
 }
