@@ -1,0 +1,6 @@
+machine:
+  ruby:
+    version: 2.2.2
+test:
+  post:
+    - csvlint groups.csv -s groups-schema.json
