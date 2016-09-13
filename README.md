@@ -2,9 +2,9 @@
 
 ## Big picture
 
-gemstate.io's mission is fostering connections between people creating things with technology in Idaho.
+http://gemstate.io's mission is fostering connections between people creating things with technology in Idaho.
 
-gemstateio-groups is the dataset the gemstate.io treats as authoriative about group names, locations, and events.
+gemstateio-groups is the dataset the http://gemstate.io app & bots treat as authoriative about group names, locations, and events.
 
 ## Contributing
 
