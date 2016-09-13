@@ -3,4 +3,4 @@ machine:
     version: 2.2.2
 test:
   post:
-    - csvlint groups.csv -s groups-schema.json
+    - bundle exec csvlint groups.csv -s groups-schema.json
