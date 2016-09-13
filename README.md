@@ -20,7 +20,7 @@ Groups listed here:
 
 ## Build Status
 
-[![](https://travis-ci.org/waded/gemstateio-groups.svg?branch=master)](https://travis-ci.org/waded/gemstateio-groups)
+[![](https://circleci.com/gh/waded/gemstateio-groups.png?style=shield)](https://circleci.com/gh/waded/gemstateio-groups)
 
 ## Contributors
 - [@waded](https://github.com/waded)
