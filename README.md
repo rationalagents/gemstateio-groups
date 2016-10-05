@@ -8,7 +8,7 @@ gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriativ
 
 ## Contributing
 
-To spread knowledge about a group, or update anything about a group, please submit a pull request with your changes to [groups.csv](https://github.com/waded/gemstateio-groups/blob/master/groups.csv). See [groups-schema.json](https://github.com/waded/gemstateio-groups/blob/master/groups-schema.json) if you're wondering about the columns.
+To spread knowledge about a group, or update anything about a group, see [CONTRIBUTING.md].
 
 Groups listed here:
 
