@@ -6,7 +6,7 @@ gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriativ
 
 ## Contributing
 
-To update information about a group, understand contribution guidelines, or to spread knowledge about a new group, please see [CONTRIBUTING.md].
+To update information about a group, understand contribution guidelines, or to spread knowledge about a new group, please see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Build status
 
