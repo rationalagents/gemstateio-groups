@@ -4,7 +4,7 @@ http://gemstate.io's mission is fostering connections between people creating th
 
 gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriative about group names, locations, and events. 
 
-If you'd like to use this list in your own project, please do! It's licensed under [CC0](LICENSE).
+If you'd like to use this list in your own project, please do! It's public domain under [CC0](LICENSE).
 
 ## Contributing
 
@@ -19,6 +19,3 @@ To update information about a group, understand contribution guidelines, or to s
 
 ## Acknowledgements
 The initial list of groups came from Idaho Tech Council's "Local Places For Techies To Network."
-
-## License
-Public Domain
