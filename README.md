@@ -18,4 +18,4 @@ To update information about a group, understand contribution guidelines, or to s
 - [@waded](https://github.com/waded)
 
 ## Acknowledgements
-The initial list of groups came from Idaho Tech Council's "Local Places For Techies To Network."
+The initial list of Boise groups we used to create the dataset came from Idaho Tech Council's "Local Places For Techies To Network."
