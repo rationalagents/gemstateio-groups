@@ -8,15 +8,7 @@ gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriativ
 
 ## Contributing
 
-To spread knowledge about a group, or update anything about a group, see [CONTRIBUTING.md].
-
-Groups listed here:
-
-- Focus on creating things using technology in Idaho
-- Have Idaho basis (based in Idaho or on the border.) Livestream/video-conference/Slack/IRC meetings with Idaho basis are good too!
-- Should use public Meetup.com or public Facebook group for event scheduling so gemstate.io can work its magic (an iCalendar/ics URL also works, but doesn't support RSVP yet)
-- Must have a URL explaining what the group's about (a Meetup.com/Facebook URL often suffices for this)
-- Should have a Code of Conduct so people understand what the group considers acceptable inclusive behavior. This should be easily discoverable at the URL.
+To update information about a group, understand contribution guidelines, or to spread knowledge about a new group, please see [CONTRIBUTING.md].
 
 ## Build status
 
