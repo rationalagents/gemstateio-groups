@@ -8,7 +8,7 @@ If you'd like to use this dataset in your own project, please do! It's public do
 
 ## Contributing
 
-To update information about a group, understand contribution guidelines, or to spread knowledge about a new group, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Acknowledgements
 The initial list of Boise groups we used to create the dataset came from Idaho Tech Council's "Local Places For Techies To Network." Thanks to others who've sent me tips about new groups.
