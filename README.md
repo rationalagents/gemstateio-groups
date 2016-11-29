@@ -2,7 +2,7 @@
 
 [gemstate.io](http://gemstate.io)'s mission is fostering connections between people creating things with technology in Idaho.
 
-gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriative about group names, locations, and events. See [groups.csv](groups.csv)
+gemstateio-groups is the dataset the gemstate.io app & bots treat as authoriative about group names, locations, and events. See [groups.csv](groups.csv).
 
 If you'd like to use this dataset in your own project, please do! It's public domain under [CC0](LICENSE).
 
