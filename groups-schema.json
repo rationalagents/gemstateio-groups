@@ -42,7 +42,7 @@
       "constraints": { "required": false }
     },
     {
-      "name":"EventBriteOrganizerId",
+      "name":"EventbriteOrganizerID",
       "description": "If eventbrite.com is used for scheduling, the organizer ID (I believe these are typically numbers)",
       "constraints": { "required": false }
     }
