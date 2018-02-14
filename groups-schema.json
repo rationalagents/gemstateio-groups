@@ -40,6 +40,11 @@
       "name": "iCalendarURL",
       "description": "If something other than meetup.com or Facebook is used for scheduling, the URL of an iCalendar/VCAL feed",
       "constraints": { "required": false }
+    },
+    {
+      "name":"EventBriteOrganizerId",
+      "description": "If eventbrite.com is used for scheduling, the organizer ID (I believe these are typically numbers)",
+      "constraints": { "required": false }
     }
   ]
 }
