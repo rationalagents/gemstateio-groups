@@ -38,7 +38,7 @@
     },
     {
       "name": "iCalendarURL",
-      "description": "If something other than meetup.com or Facebook is used for scheduling, the URL of an iCalendar/VCAL feed",
+      "description": "If a generic web calendar is used for scheduling, its iCalendar/RFC5545 URL (e.g. the .ical URLs provided for public Google Calendars)",
       "constraints": { "required": false }
     },
     {
