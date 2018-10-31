@@ -27,6 +27,11 @@
       "constraints": { "required": false, "type": "http://www.w3.org/2001/XMLSchema#anyURI" }
     },
     {
+      "name": "Description",
+      "description": "A brief description of the group",
+      "constraints": { "required": false }
+    },
+    {
     	"name": "MeetupComGroupName",
     	"description": "If meetup.com is used for scheduling, the meetup.com group name (seen in URLs as http://www.meetup.com/<group name>/",
     	"constraints": { "required": false }
