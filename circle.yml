@@ -1,3 +1,0 @@
-test:
-  post:
-    - bundle exec csvlint groups.csv -s groups-schema.json
