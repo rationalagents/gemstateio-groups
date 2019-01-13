@@ -31,7 +31,7 @@
         "description": "Optional acronym used by the group, e.g. Boise Software Developers Group members always call themselves BSDG.",
         "type": "string"
       },
-      "nextMeetingUrl": {
+      "url": {
         "description": "URL providing more information about the group, and ideally about the next meeting time & place",
         "type": "string"
       },
