@@ -9,7 +9,7 @@
   {
     "name": "Ansible Boise",
     "addedDate": "2018-02-20",
-    "locality": "Boise",
+    //    "locality": "Boise",
     "url": "https://www.meetup.com/Ansible-Boise/",
     "meetupComGroupName": "Ansible-Boise"
   },
