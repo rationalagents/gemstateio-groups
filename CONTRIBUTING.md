@@ -2,9 +2,9 @@
 
 We love additions to the list of Idaho tech meetups/groups! 
 
-Please submit pull requests with any changes you'd like to make, especially to [groups.csv](groups.csv). See [groups-schema.json](groups-schema.json) if you're wondering what the columns mean.
+Please submit pull requests with any changes you'd like to make, especially to [groups.json](groups.json).
 
-Groups listed in [groups.csv](groups.csv) should:
+Groups listed in [groups.json](groups.json) should:
 
 - Focus on creating things using technology in Idaho
 - Have Idaho basis (based in Idaho or on the border.) Livestream/video-conference/Slack/IRC meetings with Idaho basis are good too!

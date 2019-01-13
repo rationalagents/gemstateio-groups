@@ -1,0 +1,9 @@
+version: 2
+jobs:
+  validate-schema:
+    docker:
+      - image: circleci/node:4.2
+    steps:
+      - checkout
+      - run:
+          command: npm install && npm test

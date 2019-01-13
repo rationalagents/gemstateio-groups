@@ -1,0 +1,56 @@
+{
+  "$id": "https://example.com/address.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "Gemstate groups",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "name",
+      "locality",
+      "addedDate"
+    ],
+    "properties": {
+      "name": {
+        "description": "Full name of the group",
+        "type": "string"
+      },
+      "locality": {
+        "description": "Locality (incorporated city or town) where this group typically meets in-person, or 'Online' if the group doesn't meet in-person",
+        "type": "string"
+      },
+      "addedDate": {
+        "description": "Date the group was added to this list, intended to help people find new groups (ISO 8601 format)",
+        "type": "string"
+      },
+      "description": {
+        "description": "A brief description of the group",
+        "type": "string"
+      },
+      "tla": {
+        "description": "Optional acronym used by the group, e.g. Boise Software Developers Group members always call themselves BSDG.",
+        "type": "string"
+      },
+      "nextMeetingUrl": {
+        "description": "URL providing more information about the group, and ideally about the next meeting time & place",
+        "type": "string"
+      },
+      "meetupComGroupName": {
+        "description": "If meetup.com is used for scheduling, the meetup.com group name (seen in URLs as https://www.meetup.com/<group name>/",
+        "type": "string"
+      },
+      "facebookGroupName": {
+        "description": "If Facebook public groups are used for scheduling, the Facebook group name",
+        "type": "string"
+      },
+      "eventBriteOrganizerId": {
+        "description": "If eventbrite.com is used for scheduling, the organizer ID (typically a number?)",
+        "type": "string"
+      },
+      "iCalendarUrl": {
+        "description": "If a generic web calendar is used for scheduling, its iCalendar/RFC5545 URL (e.g. the .ical URLs provided for public Google Calendars)",
+        "type": "string"
+      }
+    }
+  }
+}

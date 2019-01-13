@@ -1,0 +1,9 @@
+{
+  "name": "gemstateio-groups",
+  "devDependencies": {
+    "ajv-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/ajv -s groups.schema.json -d groups.json"
+  }
+}
