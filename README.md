@@ -15,7 +15,7 @@ If you'd like to use this data in your own project, please do! It's public domai
 
 ## Contributing
 
-Please see [CONTRIBUTING.md].
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Acknowledgements
 The seed list of groups came from Idaho Tech Council's "Local Places For Techies To Network." 
