@@ -7,8 +7,6 @@ gemstateio-groups is the data the gemstate.io apps use for group names, location
 
 See [groups.json](groups.json) and [its schema](groups.schema.json).
 
-[groups.csv](groups.csv) is frozen for changes as of January 13 2019, and will be removed March 2019. 
-
 If you'd like to use this data in your own project, please do! It's public domain under [CC0](LICENSE).
 
 [![](https://circleci.com/gh/waded/gemstateio-groups.png?style=shield)](https://circleci.com/gh/waded/gemstateio-groups)
