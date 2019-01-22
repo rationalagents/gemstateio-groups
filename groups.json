@@ -21,40 +21,11 @@
     "meetupComGroupName": "A-Swiftly-Tilting-Planet"
   },
   {
-    "name": "Beers With Engineers Boise",
-    "addedDate": "2016-03-15",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/BeerswithEngineers-Boise/",
-    "meetupComGroupName": "BeerswithEngineers-Boise"
-  },
-  {
     "name": "Blackfoot Linux User Group",
     "addedDate": "2018-04-26",
     "tla": "BLUG",
     "locality": "Blackfoot",
-    "url": "https://www.meetup.com/BLUG-Blackfoot-Linux-User-Group/",
-    "meetupComGroupName": "BLUG-Blackfoot-Linux-User-Group"
-  },
-  {
-    "name": "Boise Alexa",
-    "addedDate": "2018-05-30",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Alexa-Meetup/",
-    "meetupComGroupName": "Boise-Alexa-Meetup"
-  },
-  {
-    "name": "Boise App Entrepreneurs",
-    "addedDate": "2018-08-01",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-App-Entrepreneurs-Meetup/",
-    "meetupComGroupName": "Boise-App-Entrepreneurs-Meetup"
-  },
-  {
-    "name": "Boise Area Machine Learning & Data Science",
-    "addedDate": "2015-04-14",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Area-Machine-Learning-Data-Science/",
-    "meetupComGroupName": "Boise-Area-Machine-Learning-Data-Science"
+    "url": "https://www.blug.us/"
   },
   {
     "name": "Boise Area VMWare User Group",
@@ -103,7 +74,7 @@
     "tla": "BCC",
     "locality": "Boise",
     "url": "http://boisecodecamp.org/",
-    "facebookGroupName": "boisecodecamp"
+    "eventbriteOrganizerID": "7856751959"
   },
   {
     "name": "BoiseCodes",
@@ -113,25 +84,11 @@
     "meetupComGroupName": "BoiseCodes"
   },
   {
-    "name": "Boise Coworking",
-    "addedDate": "2015-04-14",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/boisecoworking/",
-    "meetupComGroupName": "boisecoworking"
-  },
-  {
     "name": "Boise Data Science",
     "addedDate": "2017-03-08",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-Data-Science-Meetup/",
     "meetupComGroupName": "Boise-Data-Science-Meetup"
-  },
-  {
-    "name": "Boise Go",
-    "addedDate": "2017-02-03",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Go-lang-Meetup/",
-    "meetupComGroupName": "Boise-Go-lang-Meetup"
   },
   {
     "name": "Boise Graphic Design Group",
@@ -206,15 +163,8 @@
     "name": "Boise Puppet User Group",
     "addedDate": "2016-12-28",
     "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Puppet-User-Group",
+    "url": "https://www.meetup.com/Boise-Puppet-User-Group/",
     "meetupComGroupName": "Boise-Puppet-User-Group"
-  },
-  {
-    "name": "Boise Product Makers",
-    "addedDate": "2016-01-04",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Product-Makers/",
-    "meetupComGroupName": "Boise-Product-Makers"
   },
   {
     "name": "Boise Python Developers",
@@ -276,7 +226,7 @@
     "name": "Boise SQL Server Users Group",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "http://boise.sqlpass.org/"
+    "url": "https://boise.pass.org/"
   },
   {
     "name": "Boise Tableau Meetup",
@@ -310,47 +260,20 @@
     "name": "BSides Boise",
     "addedDate": "2015-11-19",
     "locality": "Boise",
-    "url": "http://www.bsidesboise.org/"
+    "url": "https://www.bsidesboise.org/"
   },
   {
     "name": "BSides Idaho Falls",
     "addedDate": "2018-09-08",
     "locality": "Idaho Falls",
     "url": "https://www.bsidesif.org/"
-  },
-  {
-    "name": "BSU Computer Science Club",
-    "addedDate": "2016-07-28",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/BSU-Computer-Science-Club/",
-    "meetupComGroupName": "BSU-Computer-Science-Club"
-  },
+  }
   {
     "name": "Build Guild",
     "addedDate": "2015-04-16",
     "locality": "Spokane",
     "url": "https://www.meetup.com/Build-Guild-Spokane/",
     "meetupComGroupName": "Build-Guild-Spokane"
-  },
-  {
-    "name": "CDA GNU Army",
-    "addedDate": "2015-09-12",
-    "locality": "Coeur d'Alene",
-    "url": "https://www.meetup.com/CDA-GNU-army/",
-    "meetupComGroupName": "CDA-GNU-army"
-  },
-  {
-    "name": "Code for Boise",
-    "addedDate": "2015-04-14",
-    "locality": "Boise",
-    "url": "http://codeforboise.org/"
-  },
-  {
-    "name": "Coeur d'Alene Crypto",
-    "addedDate": "2018-08-08",
-    "locality": "Coeur d'Alene",
-    "url": "https://www.meetup.com/Coeur-D-Alene-Crypto-Workshop/",
-    "meetupComGroupName": "Coeur-D-Alene-Crypto-Workshop"
   },
   {
     "name": "Coeur d'Alene WordPress",
@@ -370,7 +293,7 @@
     "name": "Community Security Coalition/Spokane Security Group",
     "addedDate": "2015-04-22",
     "locality": "Liberty Lake",
-    "url": "http://www.communitysecuritycoalition.org/"
+    "url": "https://www.communitysecuritycoalition.org/"
   },
   {
     "name": "DEF CON 208",
@@ -380,26 +303,11 @@
     "url": "http://dc208.com"
   },
   {
-    "name": "Developer Cooperative",
-    "addedDate": "2015-04-16",
-    "tla": "Dev Coop",
-    "locality": "Liberty Lake",
-    "url": "https://www.meetup.com/devcoop/",
-    "meetupComGroupName": "devcoop"
-  },
-  {
     "name": "DevOps Boise",
     "addedDate": "2016-07-10",
     "locality": "Boise",
     "url": "https://www.meetup.com/DevOps-Boise-Meetup/",
     "meetupComGroupName": "DevOps-Boise-Meetup"
-  },
-  {
-    "name": "Ember Boise",
-    "addedDate": "2015-04-14",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Ember-Boise/",
-    "meetupComGroupName": "Ember-Boise"
   },
   {
     "name": "Fellowship of the JavaScript",
@@ -421,13 +329,6 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Functional-Boise/",
     "meetupComGroupName": "Functional-Boise"
-  },
-  {
-    "name": "Gamination",
-    "addedDate": "2015-04-14",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Gamination/",
-    "meetupComGroupName": "Gamination"
   },
   {
     "name": "Geek Girls Spokane",
@@ -467,14 +368,13 @@
     "name": "Google Developer Group",
     "addedDate": "2016-01-27",
     "locality": "Boise",
-    "url": "http://gdgb.org/",
-    "meetupComGroupName": "Google-Developer-Group-Boise"
+    "url": "http://gdgb.org/"
   },
   {
     "name": "Hackfort",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "http://www.treefortmusicfest.com/hackfort",
+    "url": "https://www.treefortmusicfest.com/fort/hackfort/",
     "facebookGroupName": "hackfortfest"
   },
   {
@@ -489,7 +389,7 @@
     "addedDate": "2015-04-21",
     "tla": "IANS",
     "locality": "Idaho Falls",
-    "url": "http://ansidaho.org/events/"
+    "url": "http://www.ansidaho.org/event-calendar"
   },
   {
     "name": "Idaho AR, VR & Mixed Reality Group",
@@ -497,13 +397,6 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Idaho-AR-VR-Mixed-Reality-Group/",
     "meetupComGroupName": "Idaho-AR-VR-Mixed-Reality-Group"
-  },
-  {
-    "name": "Idaho Burners",
-    "addedDate": "2016-06-13",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Idaho-Burners/",
-    "meetupComGroupName": "Idaho-Burners"
   },
   {
     "name": "Idaho Clean Energy Association",
@@ -558,13 +451,13 @@
     "name": "Idaho Technology Users Group",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "http://www.idahopcug.org/"
+    "url": "https://idahotug.org/"
   },
   {
-    "name": "Idaho Tech Slack",
+    "name": "IdahoTech",
     "addedDate": "2015-09-30",
-    "locality": "Idaho (Virtual)",
-    "url": "http://www.jdwashere.com/index.php/posts/idaho-tech-community-online"
+    "locality": "Idaho (virtual community)",
+    "url": "http://idahotech.community/"
   },
   {
     "name": "Idaho Tech Council Events",
@@ -600,16 +493,10 @@
     "url": "http://sites.ieee.org/boise-cs/calendar/"
   },
   {
-    "name": "IEEE Brew With The Crew",
-    "addedDate": "2015-04-21",
-    "locality": "Idaho Falls",
-    "url": "http://calendar.idacadsci.org/?ai1ec=cat_ids~5"
-  },
-  {
     "name": "IEEE Eastern Idaho",
     "addedDate": "2015-04-21",
     "locality": "Idaho Falls",
-    "url": "http://www.easternidahoieee.org/"
+    "url": "http://ieeeei.org/"
   },
   {
     "name": "IEEE University of Idaho",
@@ -672,15 +559,13 @@
   {
     "name": "IoT",
     "addedDate": "2016-05-29",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/boites/",
-    "meetupComGroupName": "boites"
+    "locality": "Boise"
   },
   {
     "name": "ISACA Boise",
     "addedDate": "2016-01-13",
     "locality": "Boise",
-    "url": "http://isacaboise.org/"
+    "url": "https://www.isacaboise.org/"
   },
   {
     "name": "IxDA Idaho",
@@ -751,27 +636,6 @@
     "meetupComGroupName": "Microsoft-Boise-Server-and-Cloud-User-Group"
   },
   {
-    "name": "Military Spouse Coders",
-    "addedDate": "2018-01-19",
-    "tla": "MilSpouseCoders",
-    "locality": "Mountain Home",
-    "url": "https://www.meetup.com/MilSpouseCoders-MHAFB",
-    "meetupComGroupName": "MilSpouseCoders-MHAFB"
-  },
-  {
-    "name": "Moms Who Code",
-    "addedDate": "2016-05-23",
-    "locality": "Meridian",
-    "url": "https://www.meetup.com/Moms-Who-Code-with-Maker-Storytime/",
-    "meetupComGroupName": "Moms-Who-Code-with-Maker-Storytime"
-  },
-  {
-    "name": "North Idaho Computer Users Group",
-    "addedDate": "2015-04-16",
-    "locality": "Coeur d'Alene",
-    "url": "http://www.nicug.us/"
-  },
-  {
     "name": "Open Lab Idaho",
     "addedDate": "2015-04-14",
     "locality": "Garden City",
@@ -800,24 +664,11 @@
     "meetupComGroupName": "Pullman-WordPress-Meetup"
   },
   {
-    "name": "React",
-    "addedDate": "2018-04-05",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/React-Meetup/",
-    "meetupComGroupName": "React-Meetup"
-  },
-  {
     "name": "ReactJS",
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/ReactJS-Boise/",
     "meetupComGroupName": "ReactJS-Boise"
-  },
-  {
-    "name": "Research & Creative Works Conferences",
-    "addedDate": "2015-04-21",
-    "locality": "Rexburg",
-    "url": "http://calendar.idacadsci.org/?ai1ec=cat_ids~12"
   },
   {
     "name": "Sandpoint Tech",
@@ -851,14 +702,7 @@
     "addedDate": "2016-08-18",
     "locality": "Spokane",
     "url": "https://www.facebook.com/Spoquality/",
-    "facebookGroupName": "Spoquality"
-  },
-  {
-    "name": "Spokane Bitcoin",
-    "addedDate": "2015-04-16",
-    "locality": "Spokane",
-    "url": "https://www.meetup.com/Spokane-Bitcoin-Meetup/",
-    "meetupComGroupName": "Spokane-Bitcoin-Meetup"
+    "facebookGroupName": "AgileAndLeanSpokane"
   },
   {
     "name": "Spokane/CdA Machine Learning",
@@ -881,13 +725,6 @@
     "meetupComGroupName": "Spokane-Frontend-Meetup"
   },
   {
-    "name": "Spokane Game Development",
-    "addedDate": "2015-04-16",
-    "locality": "Spokane",
-    "url": "https://www.meetup.com/SpokaneGameDevelopment/",
-    "meetupComGroupName": "SpokaneGameDevelopment"
-  },
-  {
     "name": "Spokane .NET User Group",
     "addedDate": "2018-02-06",
     "locality": "Spokane",
@@ -898,6 +735,7 @@
     "name": "Spokane PHP User Group",
     "addedDate": "2015-04-16",
     "locality": "Spokane",
+    "tla": "SPOPHP",
     "url": "https://www.meetup.com/Spokane-PHP-Meetup/",
     "meetupComGroupName": "Spokane-PHP-Meetup"
   },
@@ -905,22 +743,15 @@
     "name": "Spokane Python User Group",
     "addedDate": "2015-04-16",
     "locality": "Spokane",
-    "url": "https://www.meetup.com/Spokane-Python-Meetup/",
-    "meetupComGroupName": "Spokane-Python-Meetup"
+    "url": "https://www.meetup.com/Python-Spokane/",
+    "meetupComGroupName": "Python-Spokane"
   },
   {
-    "name": "Spokane Startup Marketing",
-    "addedDate": "2015-04-20",
-    "locality": "Spokane",
-    "url": "https://www.meetup.com/Spokane-Startup-Marketing-Meetup/",
-    "meetupComGroupName": "Spokane-Startup-Marketing-Meetup"
-  },
-  {
-    "name": "Spokane UI UX Design",
+    "name": "Spokane UX",
     "addedDate": "2015-04-16",
     "locality": "Spokane",
-    "url": "https://www.meetup.com/Spokane-UI-UX-Design-Meetup/",
-    "meetupComGroupName": "Spokane-UI-UX-Design-Meetup"
+    "url": "https://www.meetup.com/Spokane-UX/",
+    "meetupComGroupName": "Spokane-UX"
   },
   {
     "name": "Start.Boise",
@@ -959,7 +790,7 @@
     "name": "Tech 208",
     "addedDate": "2016-10-05",
     "locality": "Idaho Falls",
-    "url": "http://tech208.com",
+    "url": "https://www.facebook.com/tech208/",
     "facebookGroupName": "tech208"
   },
   {
