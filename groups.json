@@ -698,11 +698,11 @@
     "facebookGroupName": "SpoCode"
   },
   {
-    "name": "SpoQuality",
+    "name": "Agile and Lean Spokane / SpoQuality",
     "addedDate": "2016-08-18",
     "locality": "Spokane",
-    "url": "https://www.facebook.com/Spoquality/",
-    "facebookGroupName": "AgileAndLeanSpokane"
+    "url": "https://www.meetup.com/AgileAndLeanSpokane/",
+    "meetupComGroupName": "AgileAndLeanSpokane"
   },
   {
     "name": "Spokane/CdA Machine Learning",
