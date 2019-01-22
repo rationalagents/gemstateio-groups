@@ -43,8 +43,8 @@
         "description": "If Facebook public groups are used for scheduling, the Facebook group name",
         "type": "string"
       },
-      "eventBriteOrganizerId": {
-        "description": "If eventbrite.com is used for scheduling, the organizer ID (typically a number?)",
+      "eventbriteOrganizerId": {
+        "description": "If eventbrite.com is used for scheduling, the Eventbrite organizer ID (typically a number?)",
         "type": "string"
       },
       "iCalendarUrl": {

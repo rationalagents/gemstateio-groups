@@ -74,7 +74,7 @@
     "tla": "BCC",
     "locality": "Boise",
     "url": "http://boisecodecamp.org/",
-    "eventbriteOrganizerID": "7856751959"
+    "eventbriteOrganizerId": "7856751959"
   },
   {
     "name": "BoiseCodes",
@@ -526,7 +526,7 @@
     "locality": "Coeur d'Alene",
     "url": "https://www.facebook.com/groups/innovationcollective/",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/innovatecda%40gmail.com/public/basic.ics",
-    "eventbriteOrganizerID": "6660665555"
+    "eventbriteOrganizerId": "6660665555"
   },
   {
     "name": "Innovation Collective: Boise",
@@ -534,7 +534,7 @@
     "tla": "IC:Boise",
     "locality": "Boise",
     "url": "https://www.facebook.com/groups/icboise/",
-    "eventbriteOrganizerID": "16666208492"
+    "eventbriteOrganizerId": "16666208492"
   },
   {
     "name": "Innovation Collective: Lewiston",
