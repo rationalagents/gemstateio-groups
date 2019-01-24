@@ -665,6 +665,13 @@
     "meetupComGroupName": "ReactJS-Boise"
   },
   {
+    "name": "Real-Time Graphics Club",
+    "addedDate": "2019-01-24",
+    "locality": "Spokane",
+    "url": "https://www.meetup.com/Southeast-Idaho-Developers/",
+    "meetupComGroupName": "real-time-collective"
+  },  
+  {
     "name": "Sandpoint Tech",
     "addedDate": "2018-02-12",
     "locality": "Sandpoint",
@@ -672,11 +679,11 @@
     "meetupComGroupName": "Sandpoint-Tech-Meetup"
   },
   {
-    "name": "Real-Time Graphics Club",
-    "addedDate": "2019-01-24",
-    "locality": "Spokane",
+    "name": "Southeast Idaho Developers",
+    "addedDate": "2018-08-01",
+    "locality": "Pocatello",
     "url": "https://www.meetup.com/Southeast-Idaho-Developers/",
-    "meetupComGroupName": "real-time-collective"
+    "meetupComGroupName": "Southeast-Idaho-Developers"
   },
   {
     "name": "Southern Idaho Society of Software Quality Assurance",
@@ -698,14 +705,6 @@
     "url": "https://www.meetup.com/AgileAndLeanSpokane/",
     "meetupComGroupName": "AgileAndLeanSpokane"
   },
-  {
-    "name": "Agile and Lean Spokane / SpoQuality",
-    "addedDate": "2016-08-18",
-    "locality": "Spokane",
-    "url": "https://www.meetup.com/AgileAndLeanSpokane/",
-    "meetupComGroupName": "AgileAndLeanSpokane"
-  }
-https://www.meetup.com/real-time-collective/  
   {
     "name": "Spokane/CdA Machine Learning",
     "addedDate": "2016-11-24",
