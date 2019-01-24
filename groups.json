@@ -665,6 +665,13 @@
     "meetupComGroupName": "ReactJS-Boise"
   },
   {
+    "name": "Real-Time Graphics Club",
+    "addedDate": "2019-01-24",
+    "locality": "Spokane",
+    "url": "https://www.meetup.com/real-time-collective/",
+    "meetupComGroupName": "real-time-collective"
+  },  
+  {
     "name": "Sandpoint Tech",
     "addedDate": "2018-02-12",
     "locality": "Sandpoint",
