@@ -310,6 +310,13 @@
     "meetupComGroupName": "DevOps-Boise-Meetup"
   },
   {
+    "name": "DevOps Days Boise",
+    "addedDate": "2019-02-05",
+    "locality": "Boise",
+    "url": "https://devopsdaysboise.com/",
+    "eventbriteOrganizerId": "17104481074"
+  },  
+  {
     "name": "Fellowship of the JavaScript",
     "addedDate": "2016-08-25",
     "locality": "Boise",
