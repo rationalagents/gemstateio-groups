@@ -15,6 +15,10 @@
         "description": "Full name of the group",
         "type": "string"
       },
+      "id": {
+        "description": "Unique identifier for the group",
+        "type": "string"
+      },
       "locality": {
         "description": "Locality (incorporated city or town) where this group typically meets in-person, or 'Online' if the group doesn't meet in-person",
         "type": "string"
