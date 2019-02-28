@@ -7,12 +7,17 @@
     "type": "object",
     "required": [
       "name",
+      "id",
       "locality",
       "addedDate"
     ],
     "properties": {
       "name": {
         "description": "Full name of the group",
+        "type": "string"
+      },
+      "id": {
+        "description": "Unique identifier for the group",
         "type": "string"
       },
       "locality": {
