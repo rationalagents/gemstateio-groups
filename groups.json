@@ -63,12 +63,12 @@
     "meetupComGroupName": "Boise-Bitcoin-Meetup"
   },
   {
-    "name": "Boise Brigade",
+    "name": "Open Boise",
     "id": "7e961de5-open-boise",
     "addedDate": "2018-01-01",
     "locality": "Boise",
-    "url": "http://www.boisebrigade.org",
-    "meetupComGroupName": "boisebrigade"
+    "url": "https://www.openboise.org/",
+    "meetupComGroupName": "openboise"
   },
   {
     "name": "Boise Cloud Computing",
