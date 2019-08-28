@@ -531,8 +531,8 @@
     "id": "78e714fa-itc",
     "addedDate": "2017-09-09",
     "locality": "Idaho",
-    "url": "http://idahotechcouncil.memberzone.com/events/search",
-    "iCalendarUrl": "http://idahotechcouncil.memberzone.com/events/calendarsync/allevents.ics"
+    "url": "http://www.idahotechcouncil.org/our-events/?tribe_event_display=list",
+    "iCalendarUrl": "http://www.idahotechcouncil.org/our-events/?tribe_event_display=list&ical=1&tribe_display=list"
   },
   {
     "name": "Idaho Virtual Reality",
