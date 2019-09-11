@@ -959,6 +959,14 @@
     "meetupComGroupName": "Treasure-Valley-Product-Management-Meetup"
   },
   {
+    "name": "Women Innovators",
+    "id": "3004a37d-women-innovators",
+    "addedDate": "2019-09-11",
+    "locality": "Boise",
+    "url": "https://women-innovators.org",
+    "iCalendarUrl": "https://women-innovators.org/events/?ical=1&tribe_display=list"    
+  },
+  {
     "name": "Write The Docs Boise",
     "id": "6cf1dcfb-boise-docs",
     "addedDate": "2016-03-30",
