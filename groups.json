@@ -316,6 +316,14 @@
     "meetupComGroupName": "Build-Guild-Spokane"
   },
   {
+    "name": "Cloud Native Computing Boise",
+    "id": "fa69d02a-boise-cncf",
+    "addedDate": "2019-09-11",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/Cloud-Native-Computing-Boise/",
+    "meetupComGroupName": "Cloud-Native-Computing-Boise"
+  },  
+  {
     "name": "Coeur d'Alene WordPress",
     "id": "96168de6-cda-wordpress",
     "addedDate": "2017-08-30",
