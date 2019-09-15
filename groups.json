@@ -199,6 +199,13 @@
     "meetupComGroupName": "Boise-Python-Developers"
   },
   {
+    "name": "Boise Red Hat User Group",
+    "addedDate": "2019-01-28",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/Boise-RHUG",
+    "meetupComGroupName": "Boise-RHUG"
+  },  
+  {
     "name": "Boise Robotics Group",
     "id": "e51bd566-boise-robotics",
     "addedDate": "2015-04-20",
