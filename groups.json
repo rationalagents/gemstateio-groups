@@ -818,7 +818,8 @@
     "id": "a0de3c13-sisqa",
     "addedDate": "2015-04-14",
     "tla": "SISQA",
-    "locality": "Boise"
+    "locality": "Boise",
+    "abandonedDate":"2019-09-17"
   },
   {
     "name": "SpoCode",
