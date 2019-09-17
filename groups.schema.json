@@ -25,7 +25,8 @@
         "type": "string"
       },
       "addedDate": {
-        "description": "Date the group was added to this list, intended to help people find new groups (ISO 8601 format)",
+        "description": "Date the group was added to this list, intended to help people find new groups. (ISO 8601 format)",
+        "format": "date",
         "type": "string"
       },
       "description": {
@@ -59,7 +60,7 @@
       "abandonedDate": {
         "type": "string",
         "format": "date",
-        "description": "If a group's no longer meeting, add this to record the last date it was known. This could be helpful in determining past interest, rather than deleting the group entirely."
+        "description": "If a group's no longer meeting, add this to record the last date it was known. This could be helpful in determining past interest, rather than deleting the group entirely. (ISO 8601 format)"
       }
     }
   }
