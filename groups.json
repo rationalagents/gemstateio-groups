@@ -199,12 +199,12 @@
     "meetupComGroupName": "Boise-Puppet-User-Group"
   },
   {
-    "name": "Boise Python Developers",
+    "name": "Boise Area Python User Group",
     "id": "63d56e16-boise-python",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "https://www.meetup.com/Boise-Python-Developers/",
-    "meetupComGroupName": "Boise-Python-Developers"
+    "url": "https://www.meetup.com/boise-area-python-user-group/",
+    "meetupComGroupName": "boise-area-python-user-groups"
   },
   {
     "name": "Boise Red Hat User Group",
