@@ -29,7 +29,7 @@
         "type": "string"
       },
       "description": {
-        "description": "A brief description of the group",
+        "description": "Optional brief description of the group",
         "type": "string"
       },
       "tla": {
