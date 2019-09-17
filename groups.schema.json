@@ -21,7 +21,7 @@
         "type": "string"
       },
       "locality": {
-        "description": "Locality (incorporated city or town) where this group typically meets in-person, or 'Online' if the group doesn't meet in-person",
+        "description": "Incorporated city/town where this group typically meets in-person, 'Online' if the group doesn't meet in-person, or 'Idaho' if no specific location",
         "type": "string"
       },
       "addedDate": {
@@ -37,11 +37,11 @@
         "type": "string"
       },
       "url": {
-        "description": "URL providing more information about the group, and ideally about the next meeting time & place",
+        "description": "Optional (strongly encouraged) URL providing more information about the group, and ideally about the next meeting time & place",
         "type": "string"
       },
       "meetupComGroupName": {
-        "description": "If meetup.com is used for scheduling, the meetup.com group name (seen in URLs as https://www.meetup.com/<group name>/",
+        "description": "If meetup.com is used for scheduling, the group name (seen in URLs as https://www.meetup.com/<meetupComGroupName>/",
         "type": "string"
       },
       "facebookGroupName": {
@@ -59,7 +59,7 @@
       "abandonedDate": {
         "type": "string",
         "format": "date",
-        "description": "Optional. Add this if a group's no longer meeting, to record the last date it was known to be meeting. This could be helpful in determining past interest."
+        "description": "If a group's no longer meeting, add this to record the last date it was known. This could be helpful in determining past interest, rather than deleting the group entirely."
       }
     }
   }
