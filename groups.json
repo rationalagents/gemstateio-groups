@@ -20,8 +20,9 @@
     "id": "e4a714f7-boise-ios",
     "addedDate": "2018-10-31",
     "locality": "Boise",
-    "url": "https://www.meetup.com/A-Swiftly-Tilting-Planet",
-    "meetupComGroupName": "A-Swiftly-Tilting-Planet"
+    "url": "https://www.youtube.com/watch?v=sNN8JyuXvrE&list=UUgdLepqjYyKF4e8vxBZGdEQ",
+    "meetupComGroupName": "A-Swiftly-Tilting-Planet",
+    "abandonedDate": "2019-09-17"
   },
   {
     "name": "Blackfoot Linux User Group",
@@ -147,7 +148,8 @@
     "addedDate": "2016-08-18",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-InfoSec-Meetup/",
-    "meetupComGroupName": "Boise-InfoSec-Meetup"
+    "meetupComGroupName": "Boise-InfoSec-Meetup",
+    "abandonedDate":"2019-09-17"
   },
   {
     "name": "Boise Innovation",
@@ -759,7 +761,8 @@
     "addedDate": "2018-02-21",
     "locality": "Pocatello",
     "url": "https://www.meetup.com/Pocatello-Bitcoin-Meetup/",
-    "meetupComGroupName": "Pocatello-Bitcoin-Meetup"
+    "meetupComGroupName": "Pocatello-Bitcoin-Meetup",
+    "abandonedDate":"2019-09-17"
   },
   {
     "name": "Post Falls Bitcoin",
@@ -767,7 +770,8 @@
     "addedDate": "2018-05-09",
     "locality": "Post Falls",
     "url": "https://www.meetup.com/Post-Falls-Bitcoin-Meetup/",
-    "meetupComGroupName": "Post-Falls-Bitcoin-Meetup"
+    "meetupComGroupName": "Post-Falls-Bitcoin-Meetup",
+    "abandonedDate":"2019-09-17"
   },
   {
     "name": "Pullman WordPress",
@@ -814,7 +818,8 @@
     "id": "a0de3c13-sisqa",
     "addedDate": "2015-04-14",
     "tla": "SISQA",
-    "locality": "Boise"
+    "locality": "Boise",
+    "abandonedDate":"2019-09-17"
   },
   {
     "name": "SpoCode",

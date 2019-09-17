@@ -55,6 +55,11 @@
       "iCalendarUrl": {
         "description": "If a generic web calendar is used for scheduling, its iCalendar/RFC5545 URL (e.g. the .ical URLs provided for public Google Calendars)",
         "type": "string"
+      },
+      "abandonedDate": {
+        "type": "string",
+        "format": "date",
+        "description": "Optional. Add this if a group's no longer meeting, to record the last date it was known to be meeting. This could be helpful in determining past interest."
       }
     }
   }
