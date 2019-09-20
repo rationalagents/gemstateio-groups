@@ -1,7 +1,6 @@
 # gemstateio-groups
 
-[gemstate.io](https://www.gemstate.io)'s mission is connecting people that create with 
-technology in Idaho.
+[gemstate.io](https://gemstate.io)'s mission is connecting people that make things in Idaho.
 
 gemstateio-groups is the data the gemstate.io apps use for group names, locations, and events.
 
