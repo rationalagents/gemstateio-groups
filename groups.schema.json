@@ -11,6 +11,7 @@
       "locality",
       "addedDate"
     ],
+    "additionalProperties": false,
     "properties": {
       "name": {
         "description": "Full name of the group",
@@ -61,6 +62,23 @@
         "type": "string",
         "format": "date",
         "description": "If a group's no longer meeting, add this to record the last date it was known. This could be helpful in determining past interest, rather than deleting the group entirely. (ISO 8601 format)"
+      },
+      "schedCom": {
+        "description": "If sched.com is used to help people choose sessions within big events, add an item per event here",
+        "type":"array",
+        "items": {
+          "type": "object",
+          "required": [
+            "name"
+          ]
+        },
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Conference name (seen in sched.com URLs as https://<conference_name>.sched.com)"
+          }
+        }
       }
     }
   }
