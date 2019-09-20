@@ -253,7 +253,11 @@
     "addedDate": "2016-08-23",
     "locality": "Boise",
     "url": "https://boisestartupweek.org/",
-    "iCalendarUrl": "https://calendar.google.com/calendar/ical/2l0eaigtdv7s4q0ektbli1m0rk%40group.calendar.google.com/public/basic.ics"
+    "iCalendarUrl": "https://calendar.google.com/calendar/ical/2l0eaigtdv7s4q0ektbli1m0rk%40group.calendar.google.com/public/basic.ics",
+    "schedCom": [
+      { "name": "techstarsstartupweekboise2018" },
+      { "name": "techstarsstartupweekboise2019" }
+    ]
   },
   {
     "name": "Boise State ACM-Women",
