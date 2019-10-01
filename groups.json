@@ -209,6 +209,14 @@
     "meetupComGroupName": "boise-area-python-user-group"
   },
   {
+    "name": "Boise Digital Entrepreneurs and Contractors",
+    "id": "a7c0a81e-boise-digital-ent-and-cont",
+    "addedDate": "2019-04-15",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/Boise-Digitial-Entrepreneurs-Contractors/",
+    "meetupComGroupName": "Boise-Digitial-Entrepreneurs-Contractors"
+  },  
+  {
     "name": "Boise Red Hat User Group",
     "id": "8ea4492a-boise-redhat",    
     "addedDate": "2019-01-28",
