@@ -478,6 +478,14 @@
     "facebookGroupName": "hackfortfest"
   },
   {
+    "name": "HackerX",
+    "id": "f5288770-hackerx",
+    "addedDate": "2019-08-30",
+    "locality": "Idaho",
+    "url": "https://hackerx.org/",
+    "eventbriteOrganizerId": "5795069502"
+  },  
+  {
     "name": "Idaho Academy of Science and Engineering Symposium",
     "id": "0da29b60-idaho-academy-of-sci-and-eng-symp",
     "addedDate": "2015-04-21",
