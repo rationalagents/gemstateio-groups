@@ -346,6 +346,14 @@
     "meetupComGroupName": "Cloud-Native-Computing-Boise"
   },
   {
+    "name": "Coding Dojo Boise",
+    "id": "2e55ec47-codingdojo-boise",
+    "addedDate": "2019-02-15",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/meetup-group-eYgFiDfE/",
+    "meetupComGroupName": "meetup-group-eYgFiDfE"
+  },  
+  {
     "name": "CodeWorks Boise",
     "id": "8cda24ce-codeworks-boise",
     "addedDate": "2019-09-28",
