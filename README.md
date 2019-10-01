@@ -1,8 +1,8 @@
 # gemstateio-groups
 
-[gemstate.io](https://gemstate.io)'s mission is connecting people that make things in Idaho.
+[gemstate.io](https://gemstate.io)'s mission is connecting people who make things in Idaho.
 
-gemstateio-groups is the data the gemstate.io apps use for group names, locations, and events.
+gemstateio-groups is the data the service uses to identify groups, meetups, and conferences.
 
 See [groups.json](groups.json) and [its schema](groups.schema.json).
 
