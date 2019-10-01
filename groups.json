@@ -344,7 +344,15 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Cloud-Native-Computing-Boise/",
     "meetupComGroupName": "Cloud-Native-Computing-Boise"
-  },  
+  },
+  {
+    "name": "CodeWorks Boise",
+    "id": "8cda24ce-codeworks-boise",
+    "addedDate": "2019-09-28",
+    "locality": "Boise",
+    "url": "https://boisecodeworks.com",
+    "meetupComGroupName": "CodeWorks-Boise"
+  },
   {
     "name": "Coeur d'Alene WordPress",
     "id": "96168de6-cda-wordpress",
