@@ -720,6 +720,14 @@
     "url": "http://www.javatechboise.org/"
   },
   {
+    "name": "JUMP Makers",
+    "id": "408933ec-jump-makers",
+    "addedDate": "2018-11-02",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/JUMP-Makers-Meetups/",
+    "meetupComGroupName": "JUMP-Makers-Meetups"
+  },
+  {
     "name": "localMotion Boise",
     "id": "7b912a1c-boise-ruby-on-rails",
     "addedDate": "2015-04-14",
