@@ -377,6 +377,14 @@
     "url": "https://www.communitysecuritycoalition.org/"
   },
   {
+    "name": "Computing Technologies Alliance",
+    "id": "b8d39a31-itc-cta",
+    "addedDate": "2019-03-16",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/Computing-Technologies-Alliance-Meetup/",
+    "meetupComGroupName": "Computing-Technologies-Alliance-Meetup"
+  },    
+  {
     "name": "DC208",
     "id": "1ad2e17b-defcon208",
     "addedDate": "2017-08-02",
