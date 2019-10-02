@@ -378,11 +378,12 @@
     "meetupComGroupName": "Coeur-dAlene-Tech-Group"
   },
   {
-    "name": "Community Security Coalition/Spokane Security Group",
-    "id": "05b0126b-spokane-security-group",
+    "name": "Community Security Coalition",
+    "id": "05b0126b-spokane-csc",
     "addedDate": "2015-04-22",
-    "locality": "Liberty Lake",
-    "url": "https://www.communitysecuritycoalition.org/"
+    "locality": "Spokane",
+    "url": "https://www.communitysecuritycoalition.org/",
+    "eventbriteOrganizerId": "15578976774"
   },
   {
     "name": "Computing Technologies Alliance",
