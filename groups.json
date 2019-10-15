@@ -292,12 +292,22 @@
     "meetupComGroupName": "Boise-Tableau-Meetup"
   },
   {
+    "name": "Boise UX Design & Research",
+    "id": "4f150da7-boise-ux",
+    "addedDate": "2019-10-15",
+    "tla": "BUX",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/BoiseUX/",
+    "meetupComGroupName": "BoiseUX"
+  },
+  {
     "name": "Boise UX-UI",
     "id": "6f6f280d-boise-uxui",
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-UX-UI/",
-    "meetupComGroupName": "Boise-UX-UI"
+    "meetupComGroupName": "Boise-UX-UI",
+    "abandonedDate":"2019-10-14"    
   },
   {
     "name": "Boise Web Technologies Group",
