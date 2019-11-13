@@ -503,7 +503,8 @@
     "locality": "Boise",
     "url": "https://www.treefortmusicfest.com/fort/hackfort/",
     "facebookGroupName": "hackfortfest",
-    "eventbriteOrganizerId": "treefort-music-fest-7469693383"
+    "eventbriteOrganizerId": "treefort-music-fest-7469693383",
+    "eventbriteKeywords": ["hackfort"]
   },
   {
     "name": "HackerX",
