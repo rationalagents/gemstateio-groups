@@ -54,6 +54,13 @@
         "description": "If eventbrite.com is used for scheduling, the Eventbrite organizer ID (typically a number?)",
         "type": "string"
       },
+      "eventbriteKeywords": {
+        "description": "If eventbrite.com is used, a list of keywords used to narrow the events to those specific to this group",
+        "type":"array",
+        "items": {
+          "type": "string"
+        }
+      },
       "iCalendarUrl": {
         "description": "If a generic web calendar is used for scheduling, its iCalendar/RFC5545 URL (e.g. the .ical URLs provided for public Google Calendars)",
         "type": "string"
