@@ -771,7 +771,8 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/Meteor-Boise/",
-    "meetupComGroupName": "Meteor-Boise"
+    "meetupComGroupName": "Meteor-Boise",
+    "abandonedDate": "2020-01-09"    
   },
   {
     "name": "Meteor Sandpoint",
