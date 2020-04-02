@@ -18,7 +18,7 @@
         "type": "string"
       },
       "id": {
-        "description": "Unique identifier for the group",
+        "description": "Unique identifier for the group. Feel free to leave this empty string in PR.",
         "type": "string"
       },
       "locality": {
