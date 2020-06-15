@@ -694,10 +694,11 @@
     "locality": "Boise"
   },
   {
-    "name": "IoT",
+    "name": "Boise IoT",
     "id": "e19109fb-boise-iot",
     "addedDate": "2016-05-29",
-    "locality": "Boise"
+    "locality": "Boise",
+    "abandonedDate": "2019-01-21"
   },
   {
     "name": "ISACA Boise",
