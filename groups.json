@@ -197,7 +197,8 @@
     "addedDate": "2016-12-28",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-Puppet-User-Group/",
-    "meetupComGroupName": "Boise-Puppet-User-Group"
+    "meetupComGroupName": "Boise-Puppet-User-Group",
+    "abandonedDate": "2020-06-15"
   },
   {
     "name": "Boise Area Python User Group",
@@ -227,7 +228,8 @@
     "addedDate": "2017-09-06",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-Salesforce-Developer-Group",
-    "meetupComGroupName": "Boise-Salesforce-Developer-Group"
+    "meetupComGroupName": "Boise-Salesforce-Developer-Group",
+    "abandonedDate": "2020-06-15"
   },
   {
     "name": "Boise Software Developers Group",
@@ -244,7 +246,8 @@
     "addedDate": "2018-04-06",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-Software-Quality-Assurance/",
-    "meetupComGroupName": "Boise-Software-Quality-Assurance"
+    "meetupComGroupName": "Boise-Software-Quality-Assurance",
+    "abandonedDate": "2020-06-15"
   },
   {
     "name": "Boise Startup Week",
@@ -394,14 +397,6 @@
     "eventbriteOrganizerId": "15578976774"
   },
   {
-    "name": "Computing Technologies Alliance",
-    "id": "b8d39a31-itc-cta",
-    "addedDate": "2019-03-16",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Computing-Technologies-Alliance-Meetup/",
-    "meetupComGroupName": "Computing-Technologies-Alliance-Meetup"
-  },    
-  {
     "name": "DC208",
     "id": "1ad2e17b-defcon208",
     "addedDate": "2017-08-02",
@@ -446,7 +441,8 @@
     "addedDate": "2018-09-12",
     "locality": "Boise",
     "url": "https://www.meetup.com/Functional-Boise/",
-    "meetupComGroupName": "Functional-Boise"
+    "meetupComGroupName": "Functional-Boise",
+    "abandonedDate": "2020-06-15"
   },
   {
     "name": "Geek Girls Spokane",
@@ -694,10 +690,11 @@
     "locality": "Boise"
   },
   {
-    "name": "IoT",
+    "name": "Boise IoT",
     "id": "e19109fb-boise-iot",
     "addedDate": "2016-05-29",
-    "locality": "Boise"
+    "locality": "Boise",
+    "abandonedDate": "2019-01-21"
   },
   {
     "name": "ISACA Boise",
@@ -849,7 +846,8 @@
     "id": "bd9ff6b3-spocode",
     "addedDate": "2015-11-19",
     "locality": "Spokane",
-    "url": "https://www.facebook.com/SpoCode"
+    "url": "https://www.facebook.com/SpoCode",
+    "abandonedDate":"2017-01-01"
   },
   {
     "name": "Agile and Lean Spokane / SpoQuality",
