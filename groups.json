@@ -597,21 +597,15 @@
     "eventbriteOrganizerId": "23224582987"
   },
   {
-    "name": "Idaho Virtual Reality",
-    "id": "dc3180ce-idaho-vr",
-    "addedDate": "2016-07-08",
-    "locality": "Boise",
-    "url": "https://www.meetup.com/Idaho-Virtual-Reality/",
-    "meetupComGroupName": "Idaho-Virtual-Reality"
-  },
-  {
-    "name": "Idaho VR Council Events",
-    "id": "aef25351-idaho-vr-events",
+    "name": "Idaho VR Council",
+    "id": "aef25351-idaho-vr",
     "addedDate": "2017-09-22",
     "locality": "Boise",
-    "url": "https://idahovirtualreality.com/ivrc-events/list/",
+    "url": "https://idahovirtualreality.com",
     "iCalendarUrl": "https://idahovirtualreality.com/ivrc-events/?ical=1",
-    "eventbriteOrganizerId": "12952495206"
+    "eventbriteOrganizerId": "12952495206",
+    "meetupComGroupName": "Idaho-Virtual-Reality",
+    "abandonedDate": "2020-01-23"
   },
   {
     "name": "IEEE Boise",
