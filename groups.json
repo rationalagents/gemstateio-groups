@@ -954,6 +954,14 @@
     "url": "http://www.up.co/communities/usa/spokane/startup-weekend/"
   },
   {
+    "name": "SwiftBoise",
+    "id": "dbf5667e-swift-boise",
+    "addedDate": "2020-04-03",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/SwiftBoise",
+    "meetupComGroupName": "SwiftBoise"
+  },  
+  {
     "name": "Tech 208",
     "id": "811c19e4-tech-208",
     "addedDate": "2016-10-05",
