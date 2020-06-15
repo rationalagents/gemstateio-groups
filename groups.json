@@ -172,8 +172,7 @@
     "id": "f12d4045-boise-macs",
     "addedDate": "2015-10-20",
     "locality": "Boise",
-    "url": "http://www.boisemacs.com/",
-    "facebookGroupName": "431015695155"
+    "url": "https://www.facebook.com/boisemug"
   },
   {
     "name": "Boise Mobile Developers",
@@ -273,8 +272,7 @@
     "addedDate": "2018-04-18",
     "tla": "Boise State CTA",
     "locality": "Boise",
-    "url": "https://boisestatecta.com",
-    "facebookGroupName": "BoiseStateCTA"
+    "url": "https://boisestate.campuslabs.com/engage/organization/creative-technologies-association"
   },
   {
     "name": "Boise SQL Server Users Group",
@@ -486,8 +484,7 @@
     "id": "1408f341-boise-girls-in-tech",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "https://www.facebook.com/girlsintechboise",
-    "facebookGroupName": "girlsintechboise"
+    "url": "https://www.facebook.com/girlsintechboise"
   },
   {
     "name": "Google Developer Group",
@@ -502,7 +499,6 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.treefortmusicfest.com/fort/hackfort/",
-    "facebookGroupName": "hackfortfest",
     "eventbriteOrganizerId": "treefort-music-fest-7469693383",
     "eventbriteKeywords": ["hackfort"]
   },
@@ -527,8 +523,7 @@
     "id": "87d53399-idaho-clean-energy-assoc",
     "addedDate": "2018-04-25",
     "locality": "Boise",
-    "url": "http://www.idahocleanenergy.org",
-    "facebookGroupName": "IdahoCleanEnergyAssociation"
+    "url": "http://www.idahocleanenergy.org"
   },
   {
     "name": "Idaho Game Developers",
@@ -660,8 +655,7 @@
     "id": "29be06de-inlandnw-technologists",
     "addedDate": "2016-06-13",
     "locality": "Spokane",
-    "url": "https://www.facebook.com/InlandNorthwestTechnologists/",
-    "facebookGroupName": "InlandNorthwestTechnologists"
+    "url": "https://inlandnorthwest.tech/"
   },
   {
     "name": "Innovation Collective: Coeur d'Alene",
@@ -788,8 +782,7 @@
     "id": "835bb455-openlabid",
     "addedDate": "2015-04-14",
     "locality": "Garden City",
-    "url": "http://www.openlabidaho.org/",
-    "facebookGroupName": "OpenLabIdaho"
+    "url": "https://www.facebook.com/OpenLabIdaho/"
   },
   {
     "name": "Pocatello Blockchain Technologies",
@@ -862,8 +855,7 @@
     "id": "bd9ff6b3-spocode",
     "addedDate": "2015-11-19",
     "locality": "Spokane",
-    "url": "https://www.facebook.com/SpoCode",
-    "facebookGroupName": "SpoCode"
+    "url": "https://www.facebook.com/SpoCode"
   },
   {
     "name": "Agile and Lean Spokane / SpoQuality",
@@ -972,8 +964,7 @@
     "id": "811c19e4-tech-208",
     "addedDate": "2016-10-05",
     "locality": "Idaho Falls",
-    "url": "https://www.facebook.com/tech208/",
-    "facebookGroupName": "tech208"
+    "url": "https://www.facebook.com/tech208/"
   },
   {
     "name": "THATCamp Boise State",
@@ -987,8 +978,7 @@
     "id": "4cb3c265-cda-thinkbig",
     "addedDate": "2015-04-14",
     "locality": "Coeur d'Alene",
-    "url": "http://www.thinkbigfestival.com/",
-    "facebookGroupName": "thinkbigfestival"
+    "url": "http://www.thinkbigfestival.com/"
   },
   {
     "name": "Trailhead Events",
@@ -996,7 +986,6 @@
     "addedDate": "2016-05-16",
     "locality": "Boise",
     "url": "https://trailheadboise.org/events/",
-    "facebookGroupName": "trailheadboise",
     "iCalendarUrl": "https://trailheadboise.org/events/?ical=1&tribe_display=list"
   },
   {
