@@ -46,10 +46,6 @@
         "description": "If meetup.com is used for scheduling, the group name (seen in URLs as https://www.meetup.com/<meetupComGroupName>/",
         "type": "string"
       },
-      "facebookGroupName": {
-        "description": "If Facebook public groups are used for scheduling, the Facebook group name",
-        "type": "string"
-      },
       "eventbriteOrganizerId": {
         "description": "If eventbrite.com is used for scheduling, the Eventbrite organizer ID (typically a number?)",
         "type": "string"
