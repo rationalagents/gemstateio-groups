@@ -664,7 +664,8 @@
     "tla": "IC:Boise",
     "locality": "Boise",
     "url": "https://www.facebook.com/groups/icboise/",
-    "eventbriteOrganizerId": "16666208492"
+    "eventbriteOrganizerId": "16666208492",
+    "abandonedDate": "2020-01-01"
   },
   {
     "name": "Innovation Collective: Lewiston",
@@ -672,7 +673,8 @@
     "addedDate": "2018-01-01",
     "tla": "IC:Lewiston",
     "locality": "Lewiston",
-    "url": "https://www.facebook.com/groups/iclewiston/"
+    "url": "https://www.facebook.com/groups/iclewiston/",
+    "abandonedDate": "2020-01-01"
   },
   {
     "name": "Innovation Collective: Sandpoint",
@@ -680,7 +682,8 @@
     "addedDate": "2017-08-30",
     "tla": "IC:Sandpoint",
     "locality": "Sandpoint",
-    "url": "https://www.facebook.com/groups/icsandpoint/"
+    "url": "https://www.facebook.com/groups/icsandpoint/",
+    "abandonedDate": "2020-01-01"
   },
   {
     "name": "Interactive Artists and Animators Group of Idaho",
