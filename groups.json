@@ -48,7 +48,15 @@
     "meetupComGroupName": "IDdronepilots"
   },
   {
-    "name": "Boise AWS User Group",
+    "name": "Boise Amazon Web Services (AWS)",
+    "id": "4ec3ebf3-boise-aws",
+    "addedDate": "2020-09-25",
+    "locality": "Boise",
+    "url": "https://www.meetup.com/Boise-Amazon-Web-Services-Meetup-Group-AWS/",
+    "meetupComGroupName": "Boise-Amazon-Web-Services-Meetup-Group-AWS"
+  },
+  {
+    "name": "Boise AWS (Boise State OIT)",
     "id": "07c6ef17-boise-aws",
     "addedDate": "2019-09-11",
     "locality": "Boise",
