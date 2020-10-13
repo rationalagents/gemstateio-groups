@@ -101,13 +101,13 @@
           "type": "object",
           "required": [
             "name"
-          ]
-        },
-        "additionalProperties": false,
-        "properties": {
-          "name": {
-            "type": "string",
-            "description": "Conference name (seen in sched.com URLs as https://<conference_name>.sched.com)"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Conference name (seen in sched.com URLs as https://<conference_name>.sched.com)"
+            }
           }
         }
       }
