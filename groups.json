@@ -377,6 +377,18 @@
     "meetupComGroupName": "Build-Guild-Spokane"
   },
   {
+    "name": "Clearwater Analytics Events",
+    "id": "e1b5ca5e-clearwater",
+    "addedDate": "2020-08-19",
+    "locality": "Idaho",
+    "eventbriteOrganizerId": "clearwater-analytics-22611683514",
+    "organizers": [
+      {
+        "name": "Clearwater Analytics"
+      }
+    ]
+  },
+  {
     "name": "Cloud Native Computing Boise",
     "id": "fa69d02a-boise-cncf",
     "addedDate": "2019-09-11",
