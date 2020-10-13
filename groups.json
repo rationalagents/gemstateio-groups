@@ -359,8 +359,16 @@
     "id": "8fbfa2e3-boise-bsides",
     "addedDate": "2015-11-19",
     "locality": "Boise",
-    "url": "https://www.bsidesboise.org/"
+    "url": "https://bsidesboise.org/"
   },
+  {
+    "name": "BSides Idaho",
+    "id": "f350a3a5-idaho-bsides",
+    "addedDate": "2020-09-03",
+    "locality": "Idaho",
+    "url": "https://bsidesidaho.org/",
+    "eventbriteOrganizerId": "bsides-organizing-committee-17245063309"
+  },  
   {
     "name": "BSides Idaho Falls",
     "id": "694481ff-idahofalls-bsides",
