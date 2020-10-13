@@ -901,6 +901,14 @@
     "meetupComGroupName": "Sandpoint-Tech-Meetup"
   },
   {
+    "name": "SheTech Spokane",
+    "id": "e7570514-shetech-spokane",
+    "addedDate": "2018-10-22",
+    "locality": "Spokane",
+    "url": "https://www.facebook.com/SheTechSpokane/",
+    "abandonedDate": "2018-10-22"
+  },  
+  {
     "name": "Southeast Idaho Developers",
     "id": "f37f5bdd-seidaho-dev",
     "addedDate": "2018-08-01",
