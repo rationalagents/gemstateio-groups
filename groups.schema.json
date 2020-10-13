@@ -79,7 +79,7 @@
         "type": "string"
       },
       "eventbriteKeywords": {
-        "description": "If eventbrite.com is used, a list of keywords used to narrow the events to those specific to this group",
+        "description": "If eventbrite.com is used, a list of keywords used to narrow events listed (any event to be listed must contain one of the keywords in title, description, or location name",
         "type":"array",
         "items": {
           "type": "string"

@@ -720,7 +720,12 @@
     "locality": "Coeur d'Alene",
     "url": "https://www.facebook.com/groups/innovationcollective/",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/innovatecda%40gmail.com/public/basic.ics",
-    "eventbriteOrganizerId": "6660665555"
+    "eventbriteOrganizerId": "innovation-collective-6660665555",
+    "eventbriteKeywords": [
+      "coeur d'alene",
+      "cda",
+      "idaho"
+    ]
   },
   {
     "name": "Innovation Collective: Boise",
@@ -729,7 +734,7 @@
     "tla": "IC:Boise",
     "locality": "Boise",
     "url": "https://www.facebook.com/groups/icboise/",
-    "eventbriteOrganizerId": "16666208492",
+    "eventbriteOrganizerId": "dj-ramirez-and-zachary-hanna-16666208492",
     "abandonedDate": "2020-01-01"
   },
   {
