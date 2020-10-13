@@ -112,7 +112,7 @@
     "tla": "BCC",
     "locality": "Boise",
     "url": "http://boisecodecamp.org/",
-    "eventbriteOrganizerId": "7856751959"
+    "eventbriteOrganizerId": "boise-code-camp-7856751959"
   },
   {
     "name": "BoiseCodes",
@@ -442,7 +442,7 @@
     "addedDate": "2015-04-22",
     "locality": "Spokane",
     "url": "https://www.communitysecuritycoalition.org/",
-    "eventbriteOrganizerId": "15578976774"
+    "eventbriteOrganizerId": "community-security-coalition-spokane-chapter-15578976774"
   },
   {
     "name": "DC208",
@@ -465,7 +465,7 @@
     "addedDate": "2019-02-05",
     "locality": "Boise",
     "url": "https://devopsdaysboise.com/",
-    "eventbriteOrganizerId": "17104481074"
+    "eventbriteOrganizerId": "devopsdays-boise-17104481074"
   },
   {
     "name": "Fellowship of the JavaScript",
@@ -560,7 +560,7 @@
     "url": "https://www.treefortmusicfest.com/fort/hackfort/",
     "eventbriteOrganizerId": "treefort-music-fest-7469693383",
     "eventbriteKeywords": [
-      "hackfort"
+      "Hackfort"
     ]
   },
   {
@@ -655,7 +655,7 @@
     "locality": "Idaho",
     "url": "http://www.idahotechcouncil.org",
     "iCalendarUrl": "http://www.idahotechcouncil.org/our-events/?ical=1&tribe_display=list",
-    "eventbriteOrganizerId": "23224582987"
+    "eventbriteOrganizerId": "idaho-technology-council-23224582987"
   },
   {
     "name": "Idaho VR Council",
@@ -664,7 +664,7 @@
     "locality": "Boise",
     "url": "https://idahovirtualreality.com",
     "iCalendarUrl": "https://idahovirtualreality.com/ivrc-events/?ical=1",
-    "eventbriteOrganizerId": "12952495206",
+    "eventbriteOrganizerId": "idaho-virtual-reality-council-12952495206",
     "meetupComGroupName": "Idaho-Virtual-Reality",
     "abandonedDate": "2020-01-23"
   },
@@ -722,9 +722,9 @@
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/innovatecda%40gmail.com/public/basic.ics",
     "eventbriteOrganizerId": "innovation-collective-6660665555",
     "eventbriteKeywords": [
-      "coeur d'alene",
-      "cda",
-      "idaho"
+      "Coeur d'Alene",
+      "CDA",
+      "Idaho"
     ]
   },
   {
