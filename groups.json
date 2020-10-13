@@ -510,6 +510,7 @@
   {
     "name": "Gemstate.io Events",
     "id": "1c81e953-gemstateio",
+    "description": "Events hosted by gemstate.io's organization, or worthy events that simply won't or can't be listed on EventBrite, meetup.com, or elsewhere!",
     "addedDate": "2017-09-09",
     "locality": "Idaho",
     "url": "http://gemstate.io",
