@@ -55,7 +55,9 @@
     "url": "https://www.meetup.com/Boise-Amazon-Web-Services-Meetup-Group-AWS/",
     "meetupComGroupName": "Boise-Amazon-Web-Services-Meetup-Group-AWS",
     "organizers": [
-      { "name": "James Ferguson" }
+      {
+        "name": "James Ferguson"
+      }
     ]
   },
   {
@@ -65,10 +67,12 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-AWS-User-Group/",
     "meetupComGroupName": "Boise-AWS-User-Group",
-    "organizers":[
-      { "name": "Boise State Office of Information Technology" }
+    "organizers": [
+      {
+        "name": "Boise State Office of Information Technology"
+      }
     ]
-  },  
+  },
   {
     "name": "Boise BI User Group",
     "id": "6d60ea22-boise-bi",
@@ -163,7 +167,7 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-InfoSec-Meetup/",
     "meetupComGroupName": "Boise-InfoSec-Meetup",
-    "abandonedDate":"2019-09-17"
+    "abandonedDate": "2019-09-17"
   },
   {
     "name": "Boise Innovation",
@@ -205,7 +209,9 @@
     "url": "https://www.meetup.com/netdug/",
     "meetupComGroupName": "netdug",
     "organizers": [
-      { "name": "Scott Nichols" }
+      {
+        "name": "Scott Nichols"
+      }
     ]
   },
   {
@@ -227,12 +233,12 @@
   },
   {
     "name": "Boise Red Hat User Group",
-    "id": "8ea4492a-boise-redhat",    
+    "id": "8ea4492a-boise-redhat",
     "addedDate": "2019-01-28",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-RHUG",
     "meetupComGroupName": "Boise-RHUG"
-  },  
+  },
   {
     "name": "Boise Robotics Group",
     "id": "e51bd566-boise-robotics",
@@ -274,8 +280,12 @@
     "url": "https://boisestartupweek.org/",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/2l0eaigtdv7s4q0ektbli1m0rk%40group.calendar.google.com/public/basic.ics",
     "schedCom": [
-      { "name": "techstarsstartupweekboise2018" },
-      { "name": "techstarsstartupweekboise2019" }
+      {
+        "name": "techstarsstartupweekboise2018"
+      },
+      {
+        "name": "techstarsstartupweekboise2019"
+      }
     ],
     "eventbriteOrganizerId": "boise-startup-week-14857585135"
   },
@@ -326,7 +336,7 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-UX-UI/",
     "meetupComGroupName": "Boise-UX-UI",
-    "abandonedDate":"2019-10-14"    
+    "abandonedDate": "2019-10-14"
   },
   {
     "name": "Boise Web Technologies Group",
@@ -381,7 +391,7 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/meetup-group-eYgFiDfE/",
     "meetupComGroupName": "meetup-group-eYgFiDfE"
-  },  
+  },
   {
     "name": "CodeWorks Boise",
     "id": "8cda24ce-codeworks-boise",
@@ -436,7 +446,7 @@
     "locality": "Boise",
     "url": "https://devopsdaysboise.com/",
     "eventbriteOrganizerId": "17104481074"
-  },  
+  },
   {
     "name": "Fellowship of the JavaScript",
     "id": "b9d3ff80-boise-fotjs",
@@ -452,8 +462,12 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/frontend-devs/",
     "meetupComGroupName": "frontend-devs",
-    "organizers":[
-      { "name": "Jeremy Zerr", "email": "jeremy@zerrtech.com", "idahoTechID": "U0C00R3S7" }
+    "organizers": [
+      {
+        "name": "Jeremy Zerr",
+        "email": "jeremy@zerrtech.com",
+        "idahoTechID": "U0C00R3S7"
+      }
     ]
   },
   {
@@ -479,8 +493,13 @@
     "locality": "Idaho",
     "url": "http://gemstate.io",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/h057813b314a0d3uj1d1atkp1k%40group.calendar.google.com/public/basic.ics",
-    "organizers":[
-      {"name": "Wade Dorrell", "email": "wade@rationalagents.com", "twitter":"waded", "idahoTechID": "U0BLWUFN3"}
+    "organizers": [
+      {
+        "name": "Wade Dorrell",
+        "email": "wade@rationalagents.com",
+        "twitter": "waded",
+        "idahoTechID": "U0BLWUFN3"
+      }
     ]
   },
   {
@@ -520,7 +539,9 @@
     "locality": "Boise",
     "url": "https://www.treefortmusicfest.com/fort/hackfort/",
     "eventbriteOrganizerId": "treefort-music-fest-7469693383",
-    "eventbriteKeywords": ["hackfort"]
+    "eventbriteKeywords": [
+      "hackfort"
+    ]
   },
   {
     "name": "Idaho Academy of Science and Engineering Symposium",
@@ -683,7 +704,7 @@
   },
   {
     "name": "Innovation Collective: Boise",
-    "id": "4fae613e-boise-ic",    
+    "id": "4fae613e-boise-ic",
     "addedDate": "2018-01-01",
     "tla": "IC:Boise",
     "locality": "Boise",
@@ -776,7 +797,7 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/Meteor-Boise/",
     "meetupComGroupName": "Meteor-Boise",
-    "abandonedDate": "2020-01-09"    
+    "abandonedDate": "2020-01-09"
   },
   {
     "name": "Meteor Sandpoint",
@@ -809,7 +830,7 @@
     "locality": "Pocatello",
     "url": "https://www.meetup.com/Pocatello-Bitcoin-Meetup/",
     "meetupComGroupName": "Pocatello-Bitcoin-Meetup",
-    "abandonedDate":"2019-09-17"
+    "abandonedDate": "2019-09-17"
   },
   {
     "name": "Post Falls Bitcoin",
@@ -818,7 +839,7 @@
     "locality": "Post Falls",
     "url": "https://www.meetup.com/Post-Falls-Bitcoin-Meetup/",
     "meetupComGroupName": "Post-Falls-Bitcoin-Meetup",
-    "abandonedDate":"2019-09-17"
+    "abandonedDate": "2019-09-17"
   },
   {
     "name": "Pullman WordPress",
@@ -843,7 +864,7 @@
     "locality": "Spokane",
     "url": "https://www.meetup.com/real-time-collective/",
     "meetupComGroupName": "real-time-collective"
-  },  
+  },
   {
     "name": "Sandpoint Tech",
     "id": "08fffeac-sandpoint-tech",
@@ -866,7 +887,7 @@
     "addedDate": "2015-04-14",
     "tla": "SISQA",
     "locality": "Boise",
-    "abandonedDate":"2019-09-17"
+    "abandonedDate": "2019-09-17"
   },
   {
     "name": "SpoCode",
@@ -874,7 +895,7 @@
     "addedDate": "2015-11-19",
     "locality": "Spokane",
     "url": "https://www.facebook.com/SpoCode",
-    "abandonedDate":"2017-01-01"
+    "abandonedDate": "2017-01-01"
   },
   {
     "name": "Agile and Lean Spokane / SpoQuality",
@@ -985,7 +1006,7 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/SwiftBoise",
     "meetupComGroupName": "SwiftBoise"
-  },  
+  },
   {
     "name": "Tech 208",
     "id": "811c19e4-tech-208",
@@ -1037,7 +1058,7 @@
     "addedDate": "2019-09-11",
     "locality": "Boise",
     "url": "https://women-innovators.org",
-    "iCalendarUrl": "https://women-innovators.org/events/?ical=1&tribe_display=list"    
+    "iCalendarUrl": "https://women-innovators.org/events/?ical=1&tribe_display=list"
   },
   {
     "name": "Write The Docs Boise",
