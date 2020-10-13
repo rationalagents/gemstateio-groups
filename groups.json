@@ -53,15 +53,21 @@
     "addedDate": "2020-09-25",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-Amazon-Web-Services-Meetup-Group-AWS/",
-    "meetupComGroupName": "Boise-Amazon-Web-Services-Meetup-Group-AWS"
+    "meetupComGroupName": "Boise-Amazon-Web-Services-Meetup-Group-AWS",
+    "organizers": [
+      { "name": "James Ferguson" }
+    ]
   },
   {
-    "name": "Boise AWS (Boise State OIT)",
+    "name": "Boise AWS",
     "id": "07c6ef17-boise-aws",
     "addedDate": "2019-09-11",
     "locality": "Boise",
     "url": "https://www.meetup.com/Boise-AWS-User-Group/",
-    "meetupComGroupName": "Boise-AWS-User-Group"
+    "meetupComGroupName": "Boise-AWS-User-Group",
+    "organizers":[
+      { "name": "Boise State Office of Information Technology" }
+    ]
   },  
   {
     "name": "Boise BI User Group",
@@ -198,7 +204,9 @@
     "locality": "Boise",
     "url": "https://www.meetup.com/netdug/",
     "meetupComGroupName": "netdug",
-    "organizers": [{"name": "Scott Nichols"}]
+    "organizers": [
+      { "name": "Scott Nichols" }
+    ]
   },
   {
     "name": "Boise Puppet User Group",
@@ -443,7 +451,10 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/frontend-devs/",
-    "meetupComGroupName": "frontend-devs"
+    "meetupComGroupName": "frontend-devs",
+    "organizers":[
+      { "name": "Jeremy Zerr", "email": "jeremy@zerrtech.com", "idahoTechID": "U0C00R3S7" }
+    ]
   },
   {
     "name": "Functional Boise",
@@ -468,7 +479,9 @@
     "locality": "Idaho",
     "url": "http://gemstate.io",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/h057813b314a0d3uj1d1atkp1k%40group.calendar.google.com/public/basic.ics",
-    "organizers":[{"name": "Wade Dorrell", "email": "wade@rationalagents.com", "twitter":"waded", "idahoTechID": "U0BLWUFN3"}]
+    "organizers":[
+      {"name": "Wade Dorrell", "email": "wade@rationalagents.com", "twitter":"waded", "idahoTechID": "U0BLWUFN3"}
+    ]
   },
   {
     "name": "GeoDev Meetup",
