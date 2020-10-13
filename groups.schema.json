@@ -42,6 +42,21 @@
         "description": "Optional (strongly encouraged) URL providing more information about the group, and ideally about the next meeting time & place",
         "type": "string"
       },
+      "organizer": {
+        "description": "Optional information about the person or organization coordinating the group, if not clear from 'name', and as occasionally needed to disambiguate groups with the same 'name'.",
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the person/organization"
+          },
+          "emailAddress": {
+            "type": "string",
+            "description": "Email address of the person/organization"
+          }
+        },
+        "additionalProperties": false        
+      },  
       "meetupComGroupName": {
         "description": "If meetup.com is used for scheduling, the group name (seen in URLs as https://www.meetup.com/<meetupComGroupName>/",
         "type": "string"
