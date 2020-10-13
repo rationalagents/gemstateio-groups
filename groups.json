@@ -720,7 +720,12 @@
     "locality": "Coeur d'Alene",
     "url": "https://www.facebook.com/groups/innovationcollective/",
     "iCalendarUrl": "https://calendar.google.com/calendar/ical/innovatecda%40gmail.com/public/basic.ics",
-    "eventbriteOrganizerId": "innovation-collective-6660665555"
+    "eventbriteOrganizerId": "innovation-collective-6660665555",
+    "eventbriteKeywords": [
+      "coeur d'alene",
+      "cda",
+      "idaho"
+    ]
   },
   {
     "name": "Innovation Collective: Boise",
