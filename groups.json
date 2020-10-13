@@ -197,7 +197,8 @@
     "tla": "NETDug",
     "locality": "Boise",
     "url": "https://www.meetup.com/netdug/",
-    "meetupComGroupName": "netdug"
+    "meetupComGroupName": "netdug",
+    "organizers": [{"name": "Scott Nichols"}]
   },
   {
     "name": "Boise Puppet User Group",
@@ -466,7 +467,8 @@
     "addedDate": "2017-09-09",
     "locality": "Idaho",
     "url": "http://gemstate.io",
-    "iCalendarUrl": "https://calendar.google.com/calendar/ical/h057813b314a0d3uj1d1atkp1k%40group.calendar.google.com/public/basic.ics"
+    "iCalendarUrl": "https://calendar.google.com/calendar/ical/h057813b314a0d3uj1d1atkp1k%40group.calendar.google.com/public/basic.ics",
+    "organizers":[{"name": "Wade Dorrell", "email": "wade@rationalagents.com", "twitter":"waded", "idahoTechID": "U0BLWUFN3"}]
   },
   {
     "name": "GeoDev Meetup",
