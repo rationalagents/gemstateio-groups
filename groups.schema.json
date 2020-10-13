@@ -68,8 +68,7 @@
             }            
           },
           "additionalProperties": false
-        },
-        "additionalProperties": false
+        }
       },  
       "meetupComGroupName": {
         "description": "If meetup.com is used for scheduling, the group name (seen in URLs as https://www.meetup.com/<meetupComGroupName>/",
