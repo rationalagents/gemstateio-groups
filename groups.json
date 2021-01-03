@@ -120,7 +120,8 @@
     "addedDate": "2016-06-13",
     "locality": "Boise",
     "url": "http://www.boisecodes.org",
-    "meetupComGroupName": "BoiseCodes"
+    "meetupComGroupName": "BoiseCodes",
+    "abandonedDate": "2021-01-03"    
   },
   {
     "name": "Boise Data Science",
