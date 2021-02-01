@@ -627,7 +627,8 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/Idaho-PHP/",
-    "meetupComGroupName": "Idaho-PHP"
+    "meetupComGroupName": "Idaho-PHP",
+    "abandonedDate":"2021-02-01"
   },
   {
     "name": "Idaho Servlerless",
