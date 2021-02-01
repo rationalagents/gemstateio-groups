@@ -539,7 +539,8 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.girldevelopit.com/chapters/boise",
-    "meetupComGroupName": "Girl-Develop-It-Boise"
+    "meetupComGroupName": "Girl-Develop-It-Boise",
+    "abandonedDate":"2021-02-01"
   },
   {
     "name": "Girls In Tech Boise",
@@ -627,7 +628,8 @@
     "addedDate": "2015-04-14",
     "locality": "Boise",
     "url": "https://www.meetup.com/Idaho-PHP/",
-    "meetupComGroupName": "Idaho-PHP"
+    "meetupComGroupName": "Idaho-PHP",
+    "abandonedDate":"2021-02-01"
   },
   {
     "name": "Idaho Servlerless",
@@ -1010,8 +1012,7 @@
     "id": "b8766754-boise-startup-grind",
     "addedDate": "2015-04-14",
     "locality": "Boise",
-    "url": "https://www.meetup.com/Startup-Grind-Boise/",
-    "meetupComGroupName": "Startup-Grind-Boise"
+    "url": "https://www.startupgrind.com/boise/"
   },
   {
     "name": "Startup Side Hustle",
@@ -1042,7 +1043,8 @@
     "addedDate": "2020-04-03",
     "locality": "Boise",
     "url": "https://www.meetup.com/SwiftBoise",
-    "meetupComGroupName": "SwiftBoise"
+    "meetupComGroupName": "SwiftBoise",
+    "abandonedDate": "2021-02-01"
   },
   {
     "name": "Tech 208",
