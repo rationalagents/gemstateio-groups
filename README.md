@@ -1,6 +1,6 @@
 # gemstateio-groups
 
-gemstateio-groups is/was used by [gemstate.io](https://gemstate.io) to identify related groups, meetups, events, conferences, and their organizers in Idaho.
+gemstateio-groups is/was used by [gemstate.io](https://gemstate.io) to identify tech-creative groups, meetups, events, and conferences in Idaho, for the purpose of publishing events into a single calendar.
 
 gemstate.io will shut down March 12 2021. After that I'm not going to make further updates to gemstateio-groups myself. I'll accept PRs. If I find it's getting notably stale - e.g. pointing to meetup.com groups that no longer exist, few/no PRs - I'll archive it near end of 2021. *-waded*
 
