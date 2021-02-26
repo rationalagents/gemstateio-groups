@@ -1,7 +1,7 @@
 {
   "$id": "https://example.com/address.schema.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "description": "Gemstate groups",
+  "description": "gemstateio-groups",
   "type": "array",
   "items": {
     "type": "object",
