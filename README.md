@@ -1,8 +1,8 @@
 # gemstateio-groups
 
-gemstateio-groups is/was used by [gemstate.io](https://gemstate.io) to identify tech-creative groups, meetups, events, and conferences in Idaho. gemstate.io aggregated corresponding events into a single website calendar, published them to [Idaho Tech Slack](https://idahotech.community/).
+gemstateio-groups is/was used by [gemstate.io](https://gemstate.io) to identify tech-creative groups, meetups, events, and conferences in Idaho. gemstate.io aggregated corresponding events into a single website calendar, published them to [Idaho Tech Slack](https://idahotech.community/), and kept record of groups that'd disappeared from sites like [meetup.com](https://meetup.com).
 
-gemstate.io will shut down March 12 2021 to make room for new things. After that I'm not making further updates to gemstateio-groups. I'll accept PRs. If I find it's getting notably stale - e.g. pointing to meetup.com groups that no longer exist, few/no PRs - I'll archive it near end of 2021. *-waded*
+gemstate.io will shut down March 12 2021 to make room for new things. After that I'm not making further updates to gemstateio-groups. I'll accept PRs. If I find it's getting notably stale - e.g. pointing to meetup.com groups that no longer exist - I'll archive it near end of 2021. *-waded*
 
 See [groups.json](groups.json) and [its schema](groups.schema.json).
 
