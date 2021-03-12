@@ -6,7 +6,7 @@ See [groups.json](groups.json) and [its schema](groups.schema.json).
 
 If you'd like to use this data in your own project, it's public domain under [CC0](LICENSE), but please note deprecation/archive warning.
 
-[![](https://circleci.com/gh/waded/gemstateio-groups.png?style=shield)](https://circleci.com/gh/waded/gemstateio-groups)
+[![](https://circleci.com/gh/rationalagents/gemstateio-groups.png?style=shield)](https://circleci.com/gh/rationalagents/gemstateio-groups)
 
 ## Deprecation/archive warning
 
