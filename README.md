@@ -8,7 +8,7 @@ If you'd like to use this data in your own project, it's public domain under [CC
 
 [![](https://circleci.com/gh/waded/gemstateio-groups.png?style=shield)](https://circleci.com/gh/waded/gemstateio-groups)
 
-## Possible deprecation/archive warning
+## Deprecation/archive warning
 
 gemstate.io, launched in 2015, shut down March 2021 to make room for new things. I'm not making further updates to gemstateio-groups, but I'll accept PRs. If I find gemstateio-groups becomes notably stale - e.g. pointing to meetup.com groups that no longer exist, something that gemstate.io defended against - I'll archive it December 2021. If you want to take on maintenance/ownership, build something serious based on this, let me know well in advance. *-waded+gsioprune@rationalagents.com*
 
