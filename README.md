@@ -1,14 +1,16 @@
 # gemstateio-groups
 
-gemstateio-groups is/was used by [gemstate.io](https://gemstate.io) to identify tech-creative groups, meetups, events, and conferences in Idaho. gemstate.io aggregated corresponding events into a single website calendar, published them to [Idaho Tech Slack](https://idahotech.community/), and kept record of groups that'd disappeared from sites like [meetup.com](https://meetup.com).
-
-gemstate.io will shut down March 12 2021 to make room for new things. After that I'm not making further updates to gemstateio-groups. I'll accept PRs. If I find it's getting notably stale - e.g. pointing to meetup.com groups that no longer exist - I'll archive it near end of 2021. *-waded*
+gemstateio-groups was used by website/service gemstate.io to identify tech-creative groups, meetups, events, and conferences in Idaho. gemstate.io aggregated events into a single calendar, published them to [Idaho Tech Slack](https://idahotech.community/), and kept record of groups that'd disappeared/moved.
 
 See [groups.json](groups.json) and [its schema](groups.schema.json).
 
-If you'd like to use this data in your own project, please do! It's public domain under [CC0](LICENSE).
+If you'd like to use this data in your own project, it's public domain under [CC0](LICENSE), but please note deprecation/archive warning.
 
 [![](https://circleci.com/gh/waded/gemstateio-groups.png?style=shield)](https://circleci.com/gh/waded/gemstateio-groups)
+
+## Possible deprecation/archive warning
+
+gemstate.io, launched in 2015, shut down March 2021 to make room for new things. I'm not making further updates to gemstateio-groups, but I'll accept PRs. If I find gemstateio-groups becomes notably stale - e.g. pointing to meetup.com groups that no longer exist, something that gemstate.io defended against - I'll archive it December 2021. If you want to take on maintenance/ownership, build something serious based on this, let me know well in advance. *-waded+gsioprune@rationalagents.com*
 
 ## Contributing
 
