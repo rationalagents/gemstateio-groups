@@ -2,11 +2,11 @@
 
 gemstateio-groups was used by website/service gemstate.io to identify tech-creative groups, meetups, events, and conferences in Idaho. gemstate.io aggregated events into a single calendar, published them to [Idaho Tech Slack](https://idahotech.community/), and kept record of groups that'd disappeared/moved.
 
-See [groups.json](groups.json) and [its schema](groups.schema.json).
+See [groups.json](groups.json) and [its schema](groups.schema.json). groups.json is validated against the schema: [![](https://circleci.com/gh/rationalagents/gemstateio-groups.png?style=shield)](https://circleci.com/gh/rationalagents/gemstateio-groups)
 
 If you'd like to use this data in your own project, it's public domain under [CC0](LICENSE), but please note deprecation/archive warning.
 
-[![](https://circleci.com/gh/rationalagents/gemstateio-groups.png?style=shield)](https://circleci.com/gh/rationalagents/gemstateio-groups)
+
 
 ## Deprecation/archive warning
 
