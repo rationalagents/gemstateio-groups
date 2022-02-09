@@ -10,7 +10,7 @@ If you'd like to use this data in your own project, it's public domain under [CC
 
 ## Deprecation/archive warning
 
-gemstate.io, launched in 2015, shut down March 2021 to make room for new things. I'm not making further updates to gemstateio-groups, but I'll accept PRs. If I find gemstateio-groups becomes notably stale - e.g. pointing to groups that no longer exist, something gemstate.io defended against - I'll archive it December 2021. If you want to take on maintenance/ownership, build something serious based on this, let me know well in advance: *waded+gsioprune@rationalagents.com*
+gemstate.io, launched in 2015, shut down March 2021 to make room for new things. So, I'm not making further updates to gemstateio-groups, and the data's gone stale (it certainly points to groups that no longer exist, something gemstate.io defended against.) If you want to take on ownership let me know.
 
 ## Contributing
 
